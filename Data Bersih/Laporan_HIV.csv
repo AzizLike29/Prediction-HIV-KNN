@@ -1,0 +1,2206 @@
+No,Umur,Jenis Kelamin,Kelompok Populasi,Alasan Kunjungan,Status ODHIV
+1,62,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+2,33,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+3,57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+4,56,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+5,44,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+6,61,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+7,65,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+8,51,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+9,19,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+10,25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+11,22,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+12,26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+13,28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+14,32,Perempuan,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+15,48,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+16,27,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+17,32,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+18,22,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+19,40,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+20,29,Laki-laki,WBP,Mulai PDP HIV,ODHIV
+21,29,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+22,46,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+23,26,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+24,38,Perempuan,Populasi Umum,Tes HIV,ODHIV
+25,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+26,67,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+27,65,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+28,35,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+29,49,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+30,13,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+31,49,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+32,63,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+33,49,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+34,59,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+35,44,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+36,19,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+37,34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+38,28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+39,23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+40,31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+41,28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+42,45,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+43,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+44,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+45,33,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+46,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+47,33,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+48,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+49,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+50,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+51,53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+52,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+53,39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+54,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+55,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+56,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+57,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+58,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+59,54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+60,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+61,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+62,29,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+63,51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+64,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+65,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+66,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+67,35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+68,41,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+69,27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+70,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+71,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+72,33,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+73,27,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+74,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+75,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+76,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+77,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+78,33,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+79,55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+80,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+81,75,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+82,45,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+83,32,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+84,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+85,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+86,38,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+87,12,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+88,11,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+89,8,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+90,12,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+91,52,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+92,42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+93,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+94,29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+95,20,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+96,36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+97,41,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+98,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+99,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+100,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+101,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+102,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+103,31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+104,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+105,43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+106,49,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+107,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+108,51,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+109,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+110,56,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+111,37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+112,24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+113,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+114,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+115,2,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+116,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+117,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+118,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+119,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+120,40,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+121,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+122,52,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+123,14,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+124,12,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+125,10,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+126,46,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+127,48,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+128,35,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+129,52,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+130,52,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+131,62,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+132,1,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+133,22,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+134,27,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+135,18,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+136,45,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+137,69,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+138,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+139,76,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+140,59,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+141,67,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+142,39,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+143,39,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+144,36,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+145,39,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+146,41,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+147,42,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+148,14,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+149,16,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+150,27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+151,32,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+152,55,Laki-laki,LSL,Transit ARV,ODHIV
+153,25,Laki-laki,LSL,Transit ARV,ODHIV
+154,19,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+155,17,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+156,27,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+157,41,Perempuan,"Ibu Hamil, Penyakit TB",Mulai PDP HIV,ODHIV
+158,38,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+159,35,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+160,45,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+161,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+162,22,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+163,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+164,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+165,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+166,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+167,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+168,31,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+169,64,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+170,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+171,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+172,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+173,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+174,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+175,42,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+176,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+177,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+178,39,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+179,34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+180,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+181,43,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+182,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+183,47,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+184,30,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+185,34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+186,31,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+187,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+188,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+189,37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+190,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+191,50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+192,54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+193,54,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+194,51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+195,23,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+196,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+197,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+198,35,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+199,43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+200,42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+201,53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+202,56,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+203,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+204,44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+205,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+206,51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+207,53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+208,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+209,21,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+210,63,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+211,50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+212,52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+213,24,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+214,50,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+215,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+216,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+217,34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+218,45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+219,25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+220,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+221,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+222,55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+223,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+224,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+225,35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+226,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+227,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+228,26,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+229,47,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+230,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+231,19,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+232,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+233,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+234,41,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+235,14,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+236,40,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+237,28,Laki-laki,Calon Pengantin,Tes HIV,Bukan ODHIV
+238,31,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+239,50,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+240,60,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+241,9,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+242,43,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+243,76,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+244,82,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+245,80,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+246,31,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+247,30,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+248,26,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+249,58,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+250,71,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+251,62,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+252,61,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+253,32,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+254,49,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+255,56,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+256,66,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+257,45,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+258,30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+259,31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+260,36,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+261,32,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+262,28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+263,44,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+264,14,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+265,34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+266,14,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+267,69,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+268,25,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+269,25,Perempuan,"Populasi Umum, Ibu Hamil",Tes IMS,ODHIV
+270,48,Perempuan,Penyakit TB,Tes IMS,ODHIV
+271,45,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+272,0,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+273,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+274,25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+275,25,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+276,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+277,24,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+278,46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+279,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+280,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+281,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+282,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+283,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+284,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+285,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+286,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+287,34,Laki-laki,"Populasi Umum, LSL",Kunjungan Rutin PDP,ODHIV
+288,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+289,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+290,57,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+291,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+292,33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+293,35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+294,61,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+295,45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+296,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+297,23,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+298,44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+299,45,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+300,42,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+301,65,Perempuan,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+302,43,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+303,34,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+304,42,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+305,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+306,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+307,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+308,51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+309,48,Laki-laki,"LSL, Pasangan ODHIV",Kunjungan Rutin PDP,ODHIV
+310,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+311,32,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+312,34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+313,38,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+314,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+315,40,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+316,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+317,44,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+318,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+319,44,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+320,42,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+321,61,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+322,48,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+323,45,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+324,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+325,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+326,51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+327,46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+328,40,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+329,55,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+330,71,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+331,24,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+332,53,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+333,52,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+334,74,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+335,64,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+336,18,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+337,54,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+338,48,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+339,61,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+340,48,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+341,24,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+342,33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+343,23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+344,33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+345,34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+346,2,Laki-laki,Anak ODHIV,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+347,41,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+348,32,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+349,45,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+350,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+351,25,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+352,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+353,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+354,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+355,35,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+356,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+357,40,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+358,41,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+359,14,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+360,14,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+361,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+362,48,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+363,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+364,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+365,34,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+366,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+367,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+368,34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+369,34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+370,22,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+371,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+372,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+373,42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+374,34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+375,35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+376,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+377,6,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+378,53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+379,3,Laki-laki,Anak Ibu ODHIV,Kunjungan Rutin PDP,ODHIV
+380,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+381,60,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+382,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+383,22,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+384,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+385,48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+386,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+387,26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+388,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+389,40,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+390,16,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+391,48,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+392,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+393,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+394,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+395,11,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+396,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+397,60,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+398,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+399,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+400,26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+401,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+402,36,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+403,45,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+404,37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+405,12,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+406,41,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+407,11,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+408,41,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+409,26,Perempuan,Calon Pengantin,Tes HIV,Bukan ODHIV
+410,20,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+411,41,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+412,23,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+413,11,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+414,58,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+415,52,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+416,57,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+417,60,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+418,47,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+419,41,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+420,22,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+421,29,Perempuan,"Penyakit TB, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+422,27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+423,12,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+424,25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+425,31,Perempuan,Ibu Hamil,Tes IMS,ODHIV
+426,38,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+427,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+428,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+429,24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+430,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+431,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+432,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+433,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+434,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+435,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+436,42,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+437,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+438,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+439,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+440,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+441,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+442,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+443,37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+444,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+445,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+446,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+447,43,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+448,37,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+449,21,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+450,55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+451,43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+452,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+453,37,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+454,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+455,58,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+456,48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+457,50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+458,55,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+459,32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+460,32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+461,55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+462,55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+463,25,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+464,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+465,24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+466,41,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+467,46,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+468,57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+469,36,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+470,76,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+471,24,Perempuan,WPS,Tes HIV,Bukan ODHIV
+472,25,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+473,49,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+474,55,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+475,45,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+476,50,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+477,70,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+478,32,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+479,29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+480,34,Laki-laki,LSL,Tes IMS,ODHIV
+481,26,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+482,26,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+483,45,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+484,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+485,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+486,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+487,24,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+488,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+489,36,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+490,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+491,55,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+492,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+493,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+494,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+495,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+496,27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+497,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+498,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+499,37,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+500,35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+501,24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+502,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+503,30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+504,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+505,20,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+506,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+507,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+508,32,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+509,37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+510,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+511,26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+512,39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+513,25,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+514,40,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+515,40,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+516,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+517,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+518,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+519,24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+520,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+521,43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+522,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+523,27,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+524,48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+525,53,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+526,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+527,32,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+528,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+529,38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+530,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+531,53,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+532,29,Laki-laki,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+533,33,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+534,41,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+535,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+536,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+537,44,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+538,43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+539,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+540,39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+541,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+542,44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+543,28,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+544,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+545,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+546,23,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+547,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+548,24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+549,32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+550,54,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+551,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+552,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+553,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+554,29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+555,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+556,30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+557,48,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+558,25,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+559,56,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+560,18,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+561,74,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+562,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+563,65,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+564,62,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+565,59,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+566,30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+567,43,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+568,26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+569,20,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+570,29,Perempuan,Populasi Umum,Tes IMS,Bukan ODHIV
+571,72,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+572,64,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+573,38,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+574,60,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+575,57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+576,44,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+577,46,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+578,23,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+579,54,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+580,74,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+581,35,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+582,47,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+583,20,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+584,66,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+585,33,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+586,29,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+587,55,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+588,56,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+589,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+590,28,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+591,80,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+592,33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+593,25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+594,31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+595,70,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+596,35,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+597,35,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+598,23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+599,6,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+600,0,Laki-laki,,Profilaksis ARV,Belum Tahu
+601,41,Laki-laki,LSL,Tes IMS,ODHIV
+602,41,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+603,74,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+604,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+605,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+606,52,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+607,32,Laki-laki,"Pasangan Risti, LSL",Kunjungan Rutin PDP,ODHIV
+608,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+609,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+610,49,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+611,46,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+612,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+613,26,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+614,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+615,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+616,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+617,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+618,44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+619,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+620,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+621,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+622,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+623,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+624,31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+625,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+626,23,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+627,58,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+628,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+629,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+630,22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+631,42,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+632,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+633,45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+634,22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+635,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+636,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+637,44,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+638,51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+639,22,Laki-laki,Penyakit IMS,Kunjungan Rutin PDP,ODHIV
+640,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+641,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+642,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+643,29,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+644,28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+645,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+646,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+647,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+648,53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+649,42,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+650,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+651,8,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+652,27,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+653,35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+654,36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+655,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+656,46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+657,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+658,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+659,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+660,27,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+661,33,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+662,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+663,38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+664,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+665,41,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+666,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+667,27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+668,10,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+669,51,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+670,66,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+671,52,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+672,20,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+673,47,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+674,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+675,25,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+676,17,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+677,58,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+678,14,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+679,18,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+680,5,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+681,65,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+682,60,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+683,52,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+684,16,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+685,10,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+686,20,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+687,22,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+688,20,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+689,17,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+690,47,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+691,33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+692,36,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+693,45,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+694,30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+695,40,Laki-laki,LSL,Transit ARV,ODHIV
+696,31,Laki-laki,LSL,Tes IMS,ODHIV
+697,0,Perempuan,Populasi Umum,Tes IMS,Belum Tahu
+698,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+699,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+700,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+701,51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+702,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+703,46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+704,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+705,30,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+706,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+707,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+708,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+709,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+710,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+711,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+712,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+713,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+714,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+715,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+716,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+717,50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+718,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+719,53,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+720,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+721,42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+722,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+723,39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+724,51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+725,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+726,48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+727,43,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+728,51,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+729,48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+730,32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+731,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+732,43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+733,52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+734,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+735,47,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+736,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+737,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+738,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+739,41,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+740,43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+741,48,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+742,35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+743,35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+744,45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+745,43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+746,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+747,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+748,31,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+749,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+750,27,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+751,40,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+752,58,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+753,53,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+754,54,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+755,35,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+756,81,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+757,13,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+758,62,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+759,56,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+760,0,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+761,57,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+762,60,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+763,26,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+764,35,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+765,55,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+766,47,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+767,76,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+768,19,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+769,35,Perempuan,Populasi Umum,Tes HIV,ODHIV
+770,54,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+771,25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+772,20,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+773,31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+774,33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+775,31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+776,19,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+777,24,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+778,29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+779,39,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+780,35,Perempuan,Populasi Umum,Tes IMS,ODHIV
+781,41,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+782,40,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+783,50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+784,49,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+785,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+786,46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+787,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+788,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+789,53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+790,62,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+791,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+792,41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+793,54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+794,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+795,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+796,58,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+797,54,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+798,47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+799,46,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+800,57,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+801,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+802,50,Perempuan,"Populasi Umum, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+803,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+804,59,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+805,24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+806,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+807,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+808,39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+809,24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+810,44,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+811,33,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+812,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+813,42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+814,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+815,43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+816,31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+817,46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+818,36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+819,22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+820,28,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+821,72,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+822,72,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+823,66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+824,43,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+825,20,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+826,74,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+827,69,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+828,35,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+829,36,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+830,57,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+831,44,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+832,66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+833,53,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+834,51,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+835,27,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+836,40,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+837,22,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+838,26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+839,13,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+840,21,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+841,27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+842,0,Perempuan,Populasi Umum,Tes IMS,Belum Tahu
+843,46,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+844,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+845,37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+846,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+847,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+848,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+849,43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+850,27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+851,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+852,31,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+853,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+854,31,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+855,29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+856,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+857,53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+858,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+859,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+860,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+861,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+862,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+863,35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+864,30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+865,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+866,37,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+867,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+868,44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+869,27,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+870,24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+871,28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+872,44,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+873,31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+874,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+875,18,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+876,24,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+877,43,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+878,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+879,37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+880,42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+881,46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+882,55,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+883,37,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+884,63,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+885,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+886,45,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+887,45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+888,44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+889,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+890,51,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+891,32,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+892,39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+893,44,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+894,34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+895,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+896,47,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+897,66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+898,28,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+899,20,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+900,57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+901,30,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+902,53,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+903,79,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+904,46,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+905,64,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+906,40,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+907,0,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+908,67,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+909,37,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+910,64,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+911,42,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+912,48,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+913,61,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+914,66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+915,63,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+916,54,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+917,31,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+918,23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+919,29,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+920,49,Laki-laki,LSL,"Tes HIV, Mulai PDP HIV",ODHIV
+921,42,Laki-laki,LSL,Transit ARV,ODHIV
+922,24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+923,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+924,37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+925,41,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+926,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+927,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+928,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+929,28,Laki-laki,Calon Pengantin,Kunjungan Rutin PDP,ODHIV
+930,38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+931,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+932,42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+933,45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+934,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+935,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+936,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+937,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+938,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+939,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+940,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+941,27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+942,32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+943,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+944,32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+945,51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+946,63,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+947,37,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+948,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+949,40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+950,53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+951,29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+952,49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+953,39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+954,28,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+955,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+956,23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+957,26,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+958,41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+959,47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+960,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+961,29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+962,49,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+963,60,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+964,70,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+965,43,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+966,47,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+967,25,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+968,62,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+969,39,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+970,52,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+971,29,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+972,35,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+973,52,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+974,40,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+975,71,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+976,24,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+977,26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+978,30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+979,34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+980,0,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+981,53,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+982,59,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+983,36,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+984,38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+985,31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+986,40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+987,46,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+988,33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+989,42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+990,44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+991,34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+992,32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+993,50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+994,54,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+995,36,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+996,54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+997,62,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+998,30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+999,47,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,000",36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,001",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,002",37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,003",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,004",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,005",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,006",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,007",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,008",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,009",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,010",32,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,011",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,012",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,013",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,014",21,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,015",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,016",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,017",37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,018",35,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,019",30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,020",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,021",51,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,022",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,023",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,024",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,025",23,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,026",56,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,027",65,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,028",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,029",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,030",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,031",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,032",29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,033",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,034",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,035",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,036",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,037",17,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"1,038",29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,039",54,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,040",49,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,041",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,042",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,043",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,044",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,045",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,046",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,047",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,048",52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,049",35,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,050",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,051",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,052",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,053",40,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,054",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,055",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,056",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,057",58,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,058",23,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,059",37,Perempuan,Populasi Umum,Tes HIV,ODHIV
+"1,060",64,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,061",50,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,062",27,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,063",2,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,064",55,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,065",51,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,066",30,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,067",51,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,068",21,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,069",28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,070",26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,071",37,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,072",22,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,073",17,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,074",38,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,075",64,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,076",74,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,077",0,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,078",28,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,079",28,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,080",54,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,081",17,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,082",17,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,083",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,084",22,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,085",30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,086",37,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+"1,087",4,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,088",6,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,089",15,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,090",7,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,091",15,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,092",15,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,093",40,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,094",41,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,095",35,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,096",9,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,097",18,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,098",41,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,099",31,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+"1,100",1,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,101",32,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,102",65,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,103",36,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,104",68,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,105",74,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,106",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,107",41,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,108",37,Perempuan,"Penyakit TB, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+"1,109",14,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,110",23,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,111",23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,112",19,Laki-laki,Penyakit TB,"Tes HIV, Mulai PDP HIV",ODHIV
+"1,113",27,Laki-laki,LSL,Tes IMS,ODHIV
+"1,114",19,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,115",55,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,116",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,117",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,118",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,119",39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,120",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,121",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,122",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,123",58,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,124",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,125",52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,126",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,127",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,128",29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,129",44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,130",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,131",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,132",51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,133",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,134",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,135",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,136",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,137",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,138",48,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,139",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,140",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,141",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,142",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,143",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,144",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,145",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,146",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,147",48,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,148",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,149",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,150",51,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,151",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,152",42,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,153",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,154",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,155",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,156",34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,157",24,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,158",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,159",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,160",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,161",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,162",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,163",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,164",58,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,165",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,166",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,167",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,168",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,169",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,170",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,171",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,172",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,173",55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,174",46,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,175",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,176",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,177",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,178",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,179",62,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,180",44,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,181",62,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,182",31,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,183",66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,184",72,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,185",16,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,186",24,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,187",17,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,188",61,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,189",0,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,190",51,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,191",33,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,192",21,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,193",33,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,194",52,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,195",39,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,196",68,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,197",75,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,198",50,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,199",38,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,200",73,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,201",38,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,202",33,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,203",18,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,204",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,205",23,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,206",35,Perempuan,Populasi Umum,Tes IMS,ODHIV
+"1,207",35,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+"1,208",45,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,209",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,210",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,211",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,212",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,213",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,214",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,215",49,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,216",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,217",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,218",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,219",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,220",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,221",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,222",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,223",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,224",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,225",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,226",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,227",24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,228",38,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,229",23,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,230",41,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,231",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,232",25,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,233",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,234",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,235",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,236",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,237",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,238",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,239",26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,240",73,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,241",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,242",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,243",33,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,244",29,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,245",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,246",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,247",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,248",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,249",36,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,250",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,251",35,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,252",58,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,253",46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,254",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,255",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,256",21,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,257",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,258",41,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,259",42,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,260",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,261",57,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,262",52,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,263",46,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,264",44,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,265",22,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,266",42,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,267",45,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,268",31,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,269",61,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,270",45,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,271",56,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,272",36,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,273",27,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,274",40,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,275",0,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,276",79,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,277",56,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,278",71,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,279",43,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,280",69,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,281",50,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,282",48,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,283",63,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,284",27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,285",30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,286",25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,287",16,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,288",0,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,289",55,Laki-laki,Penyakit TB,Transit ARV,ODHIV
+"1,290",31,Perempuan,Ibu Hamil,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,291",44,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,292",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,293",51,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,294",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,295",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,296",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,297",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,298",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,299",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,300",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,301",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,302",27,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,303",53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,304",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,305",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,306",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,307",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,308",44,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,309",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,310",36,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,311",61,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,312",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,313",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,314",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,315",34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,316",48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,317",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,318",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,319",46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,320",15,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,321",18,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,322",6,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,323",10,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,324",12,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,325",17,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,326",15,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,327",6,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,328",16,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,329",12,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,330",33,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,331",23,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,332",57,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,333",60,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,334",17,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,335",10,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,336",39,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,337",47,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,338",1,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,339",59,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,340",88,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,341",31,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,342",68,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,343",35,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,344",14,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,345",37,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,346",50,Laki-laki,Populasi Umum,"Tes HIV, Mulai PDP HIV",ODHIV
+"1,347",53,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,348",50,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,349",33,Laki-laki,LSL,Tes IMS,ODHIV
+"1,350",33,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+"1,351",25,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,352",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,353",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,354",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,355",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,356",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,357",38,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,358",48,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,359",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,360",27,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,361",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,362",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,363",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,364",56,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,365",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,366",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,367",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,368",31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,369",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,370",53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,371",42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,372",48,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,373",38,Laki-laki,"Penyakit TB, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,374",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,375",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,376",21,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,377",21,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,378",56,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,379",25,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,380",48,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,381",26,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,382",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,383",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,384",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,385",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,386",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,387",46,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,388",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,389",27,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,390",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,391",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,392",53,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,393",35,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,394",50,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,395",64,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,396",55,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,397",61,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,398",20,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,399",51,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,400",64,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,401",66,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,402",57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,403",74,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,404",28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,405",23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,406",28,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,407",46,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,408",35,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,409",24,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,410",46,Laki-laki,LSL,Transit ARV,ODHIV
+"1,411",26,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,412",33,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,413",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,414",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,415",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,416",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,417",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,418",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,419",51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,420",46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,421",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,422",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,423",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,424",19,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,425",39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,426",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,427",50,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,428",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,429",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,430",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,431",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,432",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,433",62,Perempuan,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,434",40,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,435",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,436",59,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,437",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,438",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,439",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,440",56,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,441",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,442",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,443",57,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,444",50,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,445",24,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,446",29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,447",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,448",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,449",34,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,450",20,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,451",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,452",32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,453",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,454",25,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,455",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,456",41,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,457",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,458",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,459",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,460",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,461",26,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,462",33,Laki-laki,Pasangan Risti,Kunjungan Rutin PDP,ODHIV
+"1,463",31,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,464",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,465",24,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,466",42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,467",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,468",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,469",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,470",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,471",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,472",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,473",25,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,474",44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,475",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,476",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,477",36,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,478",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,479",30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,480",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,481",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,482",36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,483",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,484",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,485",24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,486",34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,487",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,488",40,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,489",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,490",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,491",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,492",26,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,493",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,494",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,495",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,496",20,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,497",25,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,498",67,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+"1,499",68,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,500",62,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,501",65,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,502",49,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,503",30,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,504",59,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,505",27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,506",48,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,507",39,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,508",26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,509",31,Perempuan,Ibu Hamil,Tes IMS,Bukan ODHIV
+"1,510",71,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,511",59,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,512",56,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,513",59,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,514",60,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,515",32,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,516",73,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,517",36,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,518",39,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,519",65,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,520",56,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,521",37,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,522",16,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,523",45,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,524",65,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,525",75,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,526",41,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,527",34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,528",36,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,529",38,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,530",24,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,531",58,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,532",15,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,533",20,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,534",24,Perempuan,"Calon Pengantin, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+"1,535",44,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,536",70,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,537",0,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,538",0,Perempuan,,Profilaksis ARV,Belum Tahu
+"1,539",0,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,540",21,Laki-laki,Penyakit IMS,Tes IMS,Belum Tahu
+"1,541",36,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,542",30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,543",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,544",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,545",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,546",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,547",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,548",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,549",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,550",21,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,551",31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,552",13,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,553",31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,554",72,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,555",6,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,556",31,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,557",10,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,558",10,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,559",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,560",37,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,561",10,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,562",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,563",54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,564",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,565",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,566",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,567",36,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,568",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,569",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,570",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,571",45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,572",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,573",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,574",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,575",34,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,576",6,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,577",17,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,578",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,579",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,580",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,581",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,582",30,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,583",35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,584",23,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,585",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,586",29,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,587",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,588",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,589",35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,590",4,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,591",14,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,592",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,593",21,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,594",49,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,595",17,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,596",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,597",29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,598",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,599",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,600",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,601",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,602",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,603",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,604",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,605",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,606",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,607",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,608",45,Laki-laki,"Populasi Umum, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"1,609",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,610",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,611",39,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,612",32,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,613",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,614",39,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,615",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,616",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,617",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,618",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,619",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,620",7,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,621",17,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,622",6,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,623",2,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,624",3,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,625",15,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,626",45,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,627",2,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,628",2,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,629",45,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,630",37,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,631",39,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,632",30,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,633",71,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,634",45,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,635",4,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,636",49,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,637",43,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,638",48,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,639",50,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,640",31,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,641",46,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,642",43,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,643",54,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,644",6,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,645",54,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,646",31,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,647",32,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,648",41,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,649",33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,650",42,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,651",29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,652",38,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,653",21,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,654",46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,655",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,656",54,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,657",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,658",55,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,659",56,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,660",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,661",26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,662",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,663",38,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,664",41,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,665",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,666",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,667",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,668",43,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,669",52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,670",31,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,671",33,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,672",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,673",36,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,674",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,675",59,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,676",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,677",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,678",47,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,679",26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,680",52,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,681",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,682",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,683",30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,684",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,685",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,686",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,687",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,688",49,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,689",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,690",46,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,691",44,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,692",54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,693",40,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,694",47,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,695",22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,696",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,697",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,698",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,699",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,700",34,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,701",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,702",61,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,703",40,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,704",2,Perempuan,Anak Ibu ODHIV,Tes HIV,Bukan ODHIV
+"1,705",32,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,706",43,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,707",18,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,708",54,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,709",64,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,710",47,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,711",49,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,712",44,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,713",68,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,714",57,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,715",30,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,716",42,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,717",35,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,718",23,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,719",14,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,720",0,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,721",40,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,722",53,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,723",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,724",48,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,725",46,Laki-laki,LSL,Tes IMS,ODHIV
+"1,726",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,727",52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,728",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,729",57,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,730",36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,731",22,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,732",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,733",28,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,734",30,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,735",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,736",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,737",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,738",39,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"1,739",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,740",34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,741",36,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,742",25,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,743",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,744",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,745",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,746",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,747",26,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,748",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,749",72,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,750",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,751",24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,752",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,753",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,754",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,755",27,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,756",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,757",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,758",42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,759",43,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,760",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,761",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,762",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,763",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,764",49,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,765",47,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,766",41,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,767",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,768",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,769",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,770",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,771",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,772",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,773",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,774",43,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,775",46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,776",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,777",22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,778",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,779",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,780",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,781",31,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,782",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,783",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,784",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,785",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,786",50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,787",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,788",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,789",40,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,790",23,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,791",23,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,792",18,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,793",37,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,794",70,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,795",25,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,796",57,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,797",23,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,798",49,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,799",19,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,800",51,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,801",54,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,802",30,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,803",46,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,804",66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,805",42,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,806",19,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,807",19,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,808",26,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,809",30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,810",51,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,811",36,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,812",39,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,813",27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,814",14,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+"1,815",39,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,816",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,817",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,818",37,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,819",34,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,820",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,821",35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,822",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,823",30,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,824",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,825",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,826",66,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,827",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,828",47,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,829",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,830",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,831",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,832",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,833",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,834",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,835",44,Perempuan,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,836",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,837",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,838",49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,839",33,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,840",45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,841",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,842",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,843",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,844",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,845",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,846",72,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,847",52,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,848",36,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,849",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,850",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,851",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,852",41,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,853",46,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,854",46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,855",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,856",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,857",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,858",34,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,859",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,860",47,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,861",53,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,862",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,863",33,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,864",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,865",23,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,866",47,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,867",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,868",9,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,869",14,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,870",8,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,871",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,872",41,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,873",8,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,874",18,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,875",50,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,876",43,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,877",38,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,878",39,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,879",46,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,880",39,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,881",36,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,882",53,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,883",8,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,884",29,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,885",35,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,886",60,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,887",67,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,888",32,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,889",36,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,890",27,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,891",1,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,892",29,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,893",25,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,894",31,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,895",33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,896",32,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,897",38,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,898",43,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,899",30,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,900",50,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,901",44,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,902",57,Laki-laki,LSL,Tes IMS,ODHIV
+"1,903",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,904",43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,905",60,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,906",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,907",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,908",35,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,909",50,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,910",50,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,911",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,912",29,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,913",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,914",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,915",46,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,916",39,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,917",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,918",57,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,919",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,920",37,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,921",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,922",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,923",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,924",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,925",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,926",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,927",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,928",49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,929",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,930",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,931",61,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,932",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,933",22,Laki-laki,Penyakit IMS,Kunjungan Rutin PDP,ODHIV
+"1,934",38,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,935",43,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,936",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,937",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,938",28,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,939",37,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,940",30,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,941",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,942",60,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,943",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,944",50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,945",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,946",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,947",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,948",28,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,949",56,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,950",41,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,951",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,952",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,953",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,954",43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,955",43,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,956",35,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,957",34,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,958",58,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,959",33,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,960",44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,961",38,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,962",34,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,963",46,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,964",57,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,965",14,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,966",67,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,967",55,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,968",56,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,969",47,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,970",31,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,971",52,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,972",30,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,973",38,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,974",13,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,975",21,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,976",63,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,977",24,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,978",32,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,979",25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,980",29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,981",25,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,982",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,983",46,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,984",33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,985",11,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,986",47,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,987",44,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,988",49,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,989",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,990",49,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,991",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,992",33,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,993",22,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,994",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,995",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,996",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,997",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,998",45,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,999",50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,000",24,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,001",42,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,002",31,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,003",55,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,004",35,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,005",44,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"2,006",47,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,007",29,Laki-laki,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+"2,008",41,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,009",42,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,010",37,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,011",45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,012",32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,013",42,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"2,014",34,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,015",30,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,016",40,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,017",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,018",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,019",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,020",46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,021",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,022",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,023",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,024",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,025",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,026",29,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,027",28,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"2,028",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,029",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,030",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,031",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,032",43,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,033",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,034",42,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,035",25,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,036",26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,037",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,038",40,Perempuan,"Penasun, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"2,039",50,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,040",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,041",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,042",13,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,043",43,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,044",21,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,045",41,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,046",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,047",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,048",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,049",47,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,050",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,051",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,052",49,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,053",46,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,054",48,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,055",26,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"2,056",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,057",44,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,058",21,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,059",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,060",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,061",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,062",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,063",31,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,064",23,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"2,065",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,066",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,067",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,068",29,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,069",22,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,070",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,071",35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,072",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,073",61,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,074",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,075",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,076",35,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,077",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,078",40,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,079",21,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,080",28,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,081",51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,082",36,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,083",26,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,084",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,085",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,086",32,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,087",35,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,088",29,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,089",22,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,090",82,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,091",59,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,092",47,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,093",22,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,094",29,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,095",54,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,096",66,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,097",21,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,098",60,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,099",38,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,100",35,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,101",29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,102",34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,103",33,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,104",59,Perempuan,Penyakit TB,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,105",24,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,106",39,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,107",40,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,108",32,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,109",35,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,110",25,Perempuan,Populasi Umum,Tes HIV,ODHIV
+"2,111",80,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,112",40,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,113",32,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,114",54,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,115",34,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,116",19,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,117",64,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,118",50,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,119",65,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,120",60,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,121",48,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,122",37,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,123",45,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,124",29,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,125",27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,126",40,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,127",27,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,128",40,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,129",41,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,130",12,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,131",34,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,132",31,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,133",27,Laki-laki,Penyakit TB,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"2,134",22,Perempuan,Penyakit IMS,Tes IMS,Belum Tahu
+"2,135",32,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"2,136",32,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+"2,137",60,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,138",36,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,139",44,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,140",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,141",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,142",39,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,143",56,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,144",44,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,145",45,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,146",51,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,147",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,148",40,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,149",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,150",46,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,151",44,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,152",26,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,153",39,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,154",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,155",37,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,156",39,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,157",51,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,158",36,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,159",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,160",38,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,161",35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,162",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,163",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,164",27,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,165",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,166",50,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,167",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,168",41,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,169",55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,170",44,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,171",42,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,172",32,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,173",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,174",43,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,175",49,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,176",55,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,177",32,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,178",8,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,179",6,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,180",54,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,181",27,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,182",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,183",67,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,184",33,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,185",37,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,186",37,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,187",29,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,188",32,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,189",26,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,190",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,191",45,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,192",38,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,193",42,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,194",57,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,195",53,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,196",31,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+"2,197",48,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,198",49,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,199",38,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,200",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,201",34,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,202",40,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,203",30,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,204",35,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,205",28,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV

@@ -1,0 +1,2206 @@
+﻿No,Umur,Tanggal Lahir,Jenis Kelamin,Kelompok Populasi,Alasan Kunjungan,Status ODHIV
+1,62,10 Jul 1962,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+2,33,12 Jun 1991,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+3,57,13 Sep 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+4,56,16 Dec 1968,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+5,44,07 Apr 1980,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+6,61,07 Oct 1963,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+7,65,30 Mar 1959,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+8,51,10 Feb 1973,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+9,19,17 Mar 2005,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+10,25,11 May 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+11,22,14 Apr 2002,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+12,26,16 Jul 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+13,28,20 Mar 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+14,32,17 Aug 1992,Perempuan,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+15,48,26 Feb 1976,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+16,27,11 Nov 1997,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+17,32,24 Jun 1992,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+18,22,06 May 2002,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+19,40,11 Jun 1984,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+20,29,24 Jun 1995,Laki-laki,WBP,Mulai PDP HIV,ODHIV
+21,29,01 Jan 1995,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+22,46,23 Jan 1978,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+23,26,05 Jan 1998,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+24,38,20 Oct 1986,Perempuan,Populasi Umum,Tes HIV,ODHIV
+25,58,24 Sep 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+26,67,06 Jul 1957,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+27,65,15 Apr 1959,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+28,35,19 Nov 1989,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+29,49,01 Apr 1975,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+30,13,16 Aug 2011,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+31,49,04 May 1975,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+32,63,06 Feb 1961,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+33,49,12 Nov 1975,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+34,59,12 Dec 1965,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+35,44,08 Aug 1980,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+36,19,28 Oct 2005,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+37,34,27 Apr 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+38,28,28 Sep 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+39,23,07 Sep 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+40,31,14 Jun 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+41,28,18 May 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+42,45,17 May 1979,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+43,45,01 Jan 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+44,38,27 Feb 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+45,33,05 Dec 1991,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+46,40,10 Feb 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+47,33,24 May 1991,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+48,45,26 Sep 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+49,31,13 Mar 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+50,50,03 Jan 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+51,53,27 Dec 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+52,47,07 Jul 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+53,39,08 Nov 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+54,31,18 Mar 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+55,33,30 Sep 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+56,27,09 Aug 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+57,35,04 Nov 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+58,44,22 Nov 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+59,54,15 Mar 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+60,40,24 Sep 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+61,33,12 Apr 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+62,29,05 Aug 1995,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+63,51,13 Mar 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+64,40,04 May 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+65,49,28 Feb 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+66,31,20 Sep 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+67,35,01 Jan 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+68,41,20 Jun 1983,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+69,27,03 Apr 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+70,32,24 Mar 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+71,35,10 Nov 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+72,33,27 Oct 1991,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+73,27,07 Oct 1997,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+74,32,12 Jan 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+75,41,12 Sep 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+76,41,13 Sep 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+77,44,29 Jan 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+78,33,20 Aug 1991,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+79,55,18 Dec 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+80,27,20 Apr 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+81,75,30 Nov 1949,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+82,45,26 Nov 1979,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+83,32,28 Nov 1992,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+84,45,31 May 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+85,31,08 Oct 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+86,38,12 Nov 1986,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+87,12,19 Nov 2012,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+88,11,31 Oct 2013,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+89,8,04 Apr 2016,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+90,12,11 May 2012,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+91,52,01 Jul 1972,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+92,42,03 Dec 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+93,48,04 Jul 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+94,29,07 Mar 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+95,20,14 Nov 2004,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+96,36,15 Feb 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+97,41,24 Apr 1983,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+98,38,16 Dec 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+99,27,03 May 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+100,45,08 Apr 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+101,38,10 May 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+102,40,03 Nov 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+103,31,10 Dec 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+104,48,13 Jul 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+105,43,07 Apr 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+106,49,22 Aug 1975,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+107,47,21 Jul 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+108,51,01 Apr 1973,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+109,47,24 Jun 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+110,56,27 Jan 1968,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+111,37,27 Sep 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+112,24,12 Sep 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+113,48,27 Mar 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+114,44,01 Jun 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+115,2,07 Feb 2022,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+116,28,11 Aug 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+117,34,03 Dec 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+118,30,19 Apr 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+119,40,02 Apr 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+120,40,04 Feb 1984,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+121,34,05 Feb 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+122,52,14 Sep 1972,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+123,14,04 Jan 2010,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+124,12,09 Sep 2012,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+125,10,01 Dec 2014,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+126,46,18 Aug 1978,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+127,48,27 Aug 1976,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+128,35,07 Nov 1989,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+129,52,11 Jul 1972,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+130,52,12 Feb 1972,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+131,62,19 Jun 1962,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+132,1,21 May 2023,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+133,22,23 Mar 2002,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+134,27,18 Aug 1997,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+135,18,29 Jan 2006,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+136,45,30 Jul 1979,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+137,69,01 Jan 1955,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+138,58,18 Nov 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+139,76,27 Mar 1948,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+140,59,05 Apr 1965,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+141,67,03 May 1957,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+142,39,12 Dec 1985,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+143,39,23 Sep 1985,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+144,36,25 Sep 1988,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+145,39,14 Apr 1985,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+146,41,03 Aug 1983,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+147,42,27 Jun 1982,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+148,14,27 Oct 2010,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+149,16,24 Jul 2008,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+150,27,03 Oct 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+151,32,27 Jun 1992,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+152,55,09 Jul 1969,Laki-laki,LSL,Transit ARV,ODHIV
+153,25,24 Jul 1999,Laki-laki,LSL,Transit ARV,ODHIV
+154,19,06 Dec 2005,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+155,17,20 Apr 2007,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+156,27,09 Sep 1997,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+157,41,06 Jun 1983,Perempuan,"Ibu Hamil, Penyakit TB",Mulai PDP HIV,ODHIV
+158,38,20 Oct 1986,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+159,35,19 Nov 1989,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+160,45,24 Nov 1979,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+161,41,05 Mar 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+162,22,15 Sep 2002,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+163,31,25 Jun 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+164,28,11 Aug 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+165,32,13 Dec 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+166,30,29 Sep 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+167,29,13 Aug 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+168,31,21 Apr 1993,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+169,64,08 Aug 1960,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+170,31,04 Sep 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+171,29,02 Apr 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+172,45,05 Jan 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+173,37,15 Feb 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+174,49,22 May 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+175,42,01 Nov 1982,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+176,41,05 May 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+177,31,20 Feb 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+178,39,21 Mar 1985,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+179,34,17 Dec 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+180,46,06 Feb 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+181,43,05 Dec 1981,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+182,45,01 Oct 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+183,47,27 Jun 1977,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+184,30,02 Sep 1994,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+185,34,03 Mar 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+186,31,18 Sep 1993,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+187,37,01 Apr 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+188,31,13 Mar 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+189,37,15 Aug 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+190,37,23 Jan 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+191,50,21 Oct 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+192,54,20 Aug 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+193,54,28 Nov 1970,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+194,51,21 Jan 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+195,23,12 Jul 2001,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+196,29,15 Jun 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+197,36,18 Mar 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+198,35,07 Apr 1989,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+199,43,04 May 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+200,42,24 Apr 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+201,53,21 Apr 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+202,56,15 Aug 1968,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+203,37,28 Jul 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+204,44,28 Aug 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+205,45,03 May 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+206,51,10 Nov 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+207,53,16 Jul 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+208,43,27 Nov 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+209,21,09 Nov 2003,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+210,63,30 Nov 1961,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+211,50,25 Apr 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+212,52,17 Aug 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+213,24,09 Jun 2000,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+214,50,15 Feb 1974,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+215,41,23 May 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+216,41,26 Mar 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+217,34,22 Aug 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+218,45,30 Oct 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+219,25,14 Nov 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+220,34,22 Mar 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+221,35,19 Sep 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+222,55,15 Jun 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+223,42,27 Nov 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+224,40,28 Nov 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+225,35,06 Oct 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+226,32,25 Jun 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+227,45,16 Jun 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+228,26,08 Aug 1998,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+229,47,21 Mar 1977,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+230,49,18 Sep 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+231,19,06 Dec 2005,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+232,32,07 Apr 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+233,40,05 May 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+234,41,22 Oct 1983,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+235,14,19 Dec 2010,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+236,40,26 Jul 1984,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+237,28,04 Mar 1996,Laki-laki,Calon Pengantin,Tes HIV,Bukan ODHIV
+238,31,06 May 1993,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+239,50,27 Mar 1974,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+240,60,19 Jan 1964,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+241,9,13 Aug 2015,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+242,43,01 Jan 1981,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+243,76,09 Jul 1948,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+244,82,10 Dec 1942,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+245,80,22 Jul 1944,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+246,31,05 Mar 1993,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+247,30,23 Jun 1994,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+248,26,15 Jul 1998,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+249,58,02 Aug 1966,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+250,71,03 Sep 1953,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+251,62,27 Jul 1962,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+252,61,29 Aug 1963,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+253,32,29 Jul 1992,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+254,49,18 Dec 1975,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+255,56,15 Feb 1968,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+256,66,05 Nov 1958,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+257,45,01 Feb 1979,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+258,30,24 Dec 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+259,31,16 Jan 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+260,36,03 Mar 1988,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+261,32,19 Jul 1992,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+262,28,24 Jun 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+263,44,26 Jun 1980,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+264,14,25 Sep 2010,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+265,34,25 Apr 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+266,14,27 Oct 2010,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+267,69,08 Jul 1955,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+268,25,31 May 1999,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+269,25,28 Jul 1999,Perempuan,"Populasi Umum, Ibu Hamil",Tes IMS,ODHIV
+270,48,14 Jun 1976,Perempuan,Penyakit TB,Tes IMS,ODHIV
+271,45,31 Jan 1979,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+272,0,04 Sep 2024,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+273,47,07 Jan 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+274,25,31 May 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+275,25,29 Jul 1999,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+276,40,05 Mar 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+277,24,12 Mar 2000,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+278,46,05 Mar 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+279,38,27 Jul 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+280,48,23 Apr 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+281,38,09 Mar 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+282,46,01 Feb 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+283,32,12 May 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+284,47,14 Aug 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+285,29,23 Sep 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+286,31,25 Feb 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+287,34,27 Mar 1990,Laki-laki,"Populasi Umum, LSL",Kunjungan Rutin PDP,ODHIV
+288,27,29 May 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+289,37,12 Oct 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+290,57,27 Jul 1967,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+291,36,29 Jun 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+292,33,14 Nov 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+293,35,10 Apr 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+294,61,28 Oct 1963,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+295,45,25 Jul 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+296,29,19 Nov 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+297,23,26 Sep 2001,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+298,44,30 May 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+299,45,07 Aug 1979,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+300,42,01 Nov 1982,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+301,65,06 Sep 1959,Perempuan,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+302,43,15 Jul 1981,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+303,34,14 Feb 1990,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+304,42,03 Feb 1982,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+305,34,29 Oct 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+306,34,28 Feb 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+307,29,01 Nov 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+308,51,05 Dec 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+309,48,18 Nov 1976,Laki-laki,"LSL, Pasangan ODHIV",Kunjungan Rutin PDP,ODHIV
+310,27,28 Feb 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+311,32,11 May 1992,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+312,34,26 Oct 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+313,38,06 Sep 1986,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+314,40,23 Apr 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+315,40,22 Mar 1984,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+316,48,30 Jun 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+317,44,10 Dec 1980,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+318,32,02 Aug 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+319,44,04 Jul 1980,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+320,42,10 Nov 1982,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+321,61,07 May 1963,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+322,48,14 Jun 1976,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+323,45,31 Jan 1979,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+324,41,06 Sep 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+325,35,07 May 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+326,51,22 Jun 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+327,46,02 Oct 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+328,40,07 Nov 1984,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+329,55,18 Jun 1969,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+330,71,07 Mar 1953,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+331,24,15 Apr 2000,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+332,53,06 Oct 1971,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+333,52,15 Aug 1972,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+334,74,07 Aug 1950,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+335,64,04 Oct 1960,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+336,18,23 Nov 2006,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+337,54,06 Feb 1970,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+338,48,05 Apr 1976,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+339,61,16 Mar 1963,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+340,48,14 Dec 1976,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+341,24,16 Nov 2000,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+342,33,01 Jan 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+343,23,23 May 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+344,33,28 Dec 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+345,34,26 Mar 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+346,2,11 Jul 2022,Laki-laki,Anak ODHIV,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+347,41,08 Sep 1983,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+348,32,29 Jul 1992,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+349,45,24 Dec 1979,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+350,36,07 Jan 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+351,25,19 Sep 1999,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+352,31,05 Jul 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+353,33,07 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+354,41,19 Jun 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+355,35,09 May 1989,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+356,41,14 Oct 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+357,40,03 Jul 1984,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+358,41,13 Oct 1983,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+359,14,23 Sep 2010,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+360,14,06 Feb 2010,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+361,40,03 Sep 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+362,48,27 Dec 1976,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+363,43,13 Oct 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+364,49,23 Jul 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+365,34,12 May 1990,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+366,39,06 Dec 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+367,30,24 Aug 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+368,34,17 Jul 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+369,34,11 Nov 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+370,22,25 Dec 2002,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+371,35,27 Nov 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+372,27,04 Aug 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+373,42,26 Jun 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+374,34,17 Aug 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+375,35,26 Sep 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+376,32,21 Mar 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+377,6,30 Nov 2018,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+378,53,24 Nov 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+379,3,15 May 2021,Laki-laki,Anak Ibu ODHIV,Kunjungan Rutin PDP,ODHIV
+380,27,15 Apr 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+381,60,10 Mar 1964,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+382,43,18 Dec 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+383,22,26 Mar 2002,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+384,47,19 Feb 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+385,48,02 Mar 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+386,32,30 Jan 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+387,26,04 Mar 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+388,31,29 Apr 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+389,40,25 May 1984,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+390,16,17 May 2008,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+391,48,25 Jul 1976,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+392,31,22 Aug 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+393,39,23 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+394,45,09 Jul 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+395,11,18 Jul 2013,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+396,44,18 Jan 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+397,60,16 Dec 1964,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+398,42,28 Oct 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+399,47,11 Nov 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+400,26,19 May 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+401,49,28 Jul 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+402,36,19 Jul 1988,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+403,45,06 Apr 1979,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+404,37,03 Jun 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+405,12,17 Feb 2012,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+406,41,01 Apr 1983,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+407,11,11 Sep 2013,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+408,41,20 Mar 1983,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+409,26,08 Apr 1998,Perempuan,Calon Pengantin,Tes HIV,Bukan ODHIV
+410,20,31 Mar 2004,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+411,41,20 Jul 1983,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+412,23,31 Jul 2001,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+413,11,12 Nov 2013,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+414,58,20 Jan 1966,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+415,52,09 Dec 1972,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+416,57,31 Aug 1967,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+417,60,17 Jul 1964,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+418,47,04 Jul 1977,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+419,41,08 Sep 1983,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+420,22,22 Nov 2002,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+421,29,01 Jan 1995,Perempuan,"Penyakit TB, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+422,27,12 Oct 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+423,12,17 Mar 2012,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+424,25,03 Jun 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+425,31,01 Jan 1993,Perempuan,Ibu Hamil,Tes IMS,ODHIV
+426,38,14 Dec 1986,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+427,32,07 May 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+428,38,31 Jul 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+429,24,13 Aug 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+430,45,12 Apr 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+431,28,24 Sep 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+432,29,03 Aug 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+433,40,06 Dec 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+434,48,07 Mar 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+435,46,21 Apr 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+436,42,07 Jul 1982,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+437,39,04 May 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+438,49,06 Jun 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+439,28,26 Jul 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+440,47,07 Feb 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+441,39,06 Aug 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+442,48,12 Feb 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+443,37,27 Sep 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+444,38,08 Mar 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+445,42,25 Dec 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+446,28,15 Jul 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+447,43,23 Jul 1981,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+448,37,03 Nov 1987,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+449,21,15 Mar 2003,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+450,55,23 Sep 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+451,43,15 Nov 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+452,42,01 Aug 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+453,37,04 May 1987,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+454,49,31 Aug 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+455,58,08 May 1966,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+456,48,05 Feb 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+457,50,30 Apr 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+458,55,05 Sep 1969,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+459,32,12 Jun 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+460,32,05 Aug 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+461,55,17 May 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+462,55,23 Dec 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+463,25,23 Jun 1999,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+464,35,18 Dec 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+465,24,08 Oct 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+466,41,13 Nov 1983,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+467,46,29 Apr 1978,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+468,57,04 Apr 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+469,36,16 Apr 1988,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+470,76,08 Mar 1948,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+471,24,24 Oct 2000,Perempuan,WPS,Tes HIV,Bukan ODHIV
+472,25,15 Mar 1999,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+473,49,06 Feb 1975,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+474,55,20 Sep 1969,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+475,45,17 Jul 1979,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+476,50,11 May 1974,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+477,70,12 Sep 1954,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+478,32,31 Dec 1992,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+479,29,30 Mar 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+480,34,24 Apr 1990,Laki-laki,LSL,Tes IMS,ODHIV
+481,26,13 Mar 1998,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+482,26,13 Mar 1998,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+483,45,03 Apr 1979,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+484,50,23 Oct 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+485,49,05 Nov 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+486,39,17 May 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+487,24,01 Jul 2000,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+488,29,07 Feb 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+489,36,28 Aug 1988,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+490,43,12 Dec 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+491,55,13 Feb 1969,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+492,39,15 Mar 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+493,40,07 Mar 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+494,30,09 Jun 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+495,28,20 Apr 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+496,27,28 Mar 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+497,31,25 Jan 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+498,31,10 Feb 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+499,37,14 Aug 1987,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+500,35,28 Nov 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+501,24,09 Mar 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+502,39,01 Apr 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+503,30,07 Dec 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+504,41,26 Jul 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+505,20,26 Oct 2004,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+506,27,27 Sep 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+507,31,15 Sep 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+508,32,09 Jul 1992,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+509,37,03 Apr 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+510,39,12 Mar 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+511,26,18 Feb 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+512,39,10 Nov 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+513,25,23 Jul 1999,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+514,40,05 May 1984,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+515,40,31 Oct 1984,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+516,28,19 Sep 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+517,47,22 Mar 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+518,33,08 Mar 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+519,24,28 Jan 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+520,28,15 Apr 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+521,43,14 Mar 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+522,39,28 Apr 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+523,27,25 May 1997,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+524,48,15 Feb 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+525,53,07 Sep 1971,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+526,50,04 May 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+527,32,15 Jul 1992,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+528,40,29 Dec 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+529,38,29 Nov 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+530,44,12 Feb 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+531,53,21 Dec 1971,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+532,29,24 Mar 1995,Laki-laki,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+533,33,05 Jul 1991,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+534,41,19 Nov 1983,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+535,49,30 May 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+536,42,29 Jan 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+537,44,26 Feb 1980,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+538,43,18 Dec 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+539,45,21 Dec 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+540,39,15 Nov 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+541,47,15 Apr 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+542,44,13 Oct 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+543,28,04 Oct 1996,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+544,39,04 Aug 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+545,41,07 Sep 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+546,23,15 Jul 2001,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+547,39,30 Oct 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+548,24,07 Dec 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+549,32,23 Jul 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+550,54,15 May 1970,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+551,38,06 Mar 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+552,44,14 Feb 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+553,38,06 Oct 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+554,29,15 Sep 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+555,37,08 Sep 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+556,30,10 Sep 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+557,48,14 Feb 1976,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+558,25,29 Mar 1999,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+559,56,25 Apr 1968,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+560,18,09 Jun 2006,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+561,74,01 Jul 1950,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+562,58,31 Dec 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+563,65,19 Oct 1959,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+564,62,10 Feb 1962,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+565,59,11 Apr 1965,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+566,30,01 Jul 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+567,43,17 Feb 1981,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+568,26,01 Apr 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+569,20,26 Mar 2004,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+570,29,14 Feb 1995,Perempuan,Populasi Umum,Tes IMS,Bukan ODHIV
+571,72,26 Apr 1952,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+572,64,05 Mar 1960,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+573,38,12 Jun 1986,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+574,60,01 Jul 1964,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+575,57,15 Jul 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+576,44,20 Aug 1980,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+577,46,10 Oct 1978,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+578,23,25 Mar 2001,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+579,54,26 Jan 1970,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+580,74,06 Sep 1950,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+581,35,29 Sep 1989,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+582,47,05 May 1977,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+583,20,19 Aug 2004,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+584,66,01 Jun 1958,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+585,33,20 Jun 1991,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+586,29,17 Dec 1995,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+587,55,03 Feb 1969,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+588,56,07 Jun 1968,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+589,58,14 May 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+590,28,12 Mar 1996,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+591,80,08 Apr 1944,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+592,33,31 Jul 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+593,25,05 Apr 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+594,31,29 Jun 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+595,70,23 Jul 1954,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+596,35,18 Apr 1989,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+597,35,28 Jun 1989,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+598,23,16 Dec 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+599,6,19 Jul 2018,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+600,0,29 Jul 2024,Laki-laki,,Profilaksis ARV,Belum Tahu
+601,41,24 Jan 1983,Laki-laki,LSL,Tes IMS,ODHIV
+602,41,24 Jan 1983,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+603,74,01 Jul 1950,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+604,32,06 Aug 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+605,48,19 Jun 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+606,52,01 Jul 1972,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+607,32,15 Mar 1992,Laki-laki,"Pasangan Risti, LSL",Kunjungan Rutin PDP,ODHIV
+608,39,20 Aug 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+609,45,02 Aug 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+610,49,17 Nov 1975,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+611,46,23 Mar 1978,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+612,32,02 Dec 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+613,26,12 Jan 1998,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+614,29,20 Nov 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+615,47,23 Oct 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+616,36,13 Sep 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+617,36,25 May 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+618,44,24 Aug 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+619,45,13 Nov 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+620,44,25 Feb 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+621,45,09 Sep 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+622,29,25 Nov 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+623,29,28 May 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+624,31,03 Oct 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+625,34,22 Jun 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+626,23,02 Dec 2001,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+627,58,12 Jun 1966,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+628,27,18 Feb 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+629,39,03 Jul 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+630,22,14 Aug 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+631,42,04 Nov 1982,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+632,31,15 Jan 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+633,45,05 May 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+634,22,05 Sep 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+635,34,27 Aug 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+636,28,10 Dec 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+637,44,12 Sep 1980,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+638,51,04 May 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+639,22,11 Jul 2002,Laki-laki,Penyakit IMS,Kunjungan Rutin PDP,ODHIV
+640,50,20 Oct 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+641,28,08 Jan 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+642,39,04 Feb 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+643,29,05 Jul 1995,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+644,28,05 Jan 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+645,44,16 Oct 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+646,41,25 Feb 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+647,45,29 Jul 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+648,53,04 Sep 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+649,42,15 Jun 1982,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+650,40,21 Oct 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+651,8,23 Feb 2016,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+652,27,16 Jun 1997,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+653,35,17 Oct 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+654,36,28 Sep 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+655,36,12 Feb 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+656,46,09 Jun 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+657,44,27 Dec 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+658,39,30 Oct 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+659,33,01 Feb 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+660,27,22 Apr 1997,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+661,33,13 Oct 1991,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+662,30,05 Apr 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+663,38,01 Oct 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+664,48,10 Aug 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+665,41,16 Jul 1983,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+666,37,25 Sep 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+667,27,31 Oct 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+668,10,10 Sep 2014,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+669,51,18 Apr 1973,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+670,66,27 Oct 1958,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+671,52,01 Oct 1972,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+672,20,11 Nov 2004,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+673,47,23 Sep 1977,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+674,58,29 Jul 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+675,25,27 Jul 1999,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+676,17,23 Jul 2007,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+677,58,07 Jun 1966,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+678,14,07 May 2010,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+679,18,04 Nov 2006,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+680,5,28 Sep 2019,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+681,65,15 Sep 1959,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+682,60,23 Jan 1964,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+683,52,15 Mar 1972,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+684,16,20 Nov 2008,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+685,10,30 Dec 2014,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+686,20,04 Jan 2004,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+687,22,10 Apr 2002,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+688,20,06 Oct 2004,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+689,17,04 Feb 2007,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+690,47,10 Oct 1977,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+691,33,04 Sep 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+692,36,28 May 1988,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+693,45,02 Dec 1979,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+694,30,22 Jun 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+695,40,08 Apr 1984,Laki-laki,LSL,Transit ARV,ODHIV
+696,31,18 Mar 1993,Laki-laki,LSL,Tes IMS,ODHIV
+697,0,10 Sep 2024,Perempuan,Populasi Umum,Tes IMS,Belum Tahu
+698,30,21 Jan 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+699,28,17 Feb 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+700,31,20 Jun 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+701,51,20 Jul 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+702,47,31 Oct 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+703,46,01 Jun 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+704,48,12 May 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+705,30,03 Apr 1994,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+706,47,14 Aug 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+707,40,14 Jul 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+708,30,24 Jan 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+709,48,14 Mar 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+710,43,10 Aug 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+711,38,03 Jan 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+712,48,04 Oct 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+713,50,05 Jun 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+714,34,16 Nov 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+715,34,14 Oct 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+716,29,24 Jan 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+717,50,04 Jul 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+718,40,24 Feb 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+719,53,15 Jun 1971,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+720,30,03 Jul 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+721,42,18 Aug 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+722,31,20 Dec 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+723,39,31 Mar 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+724,51,22 Sep 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+725,46,15 Jul 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+726,48,11 May 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+727,43,07 Mar 1981,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+728,51,05 Mar 1973,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+729,48,21 Aug 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+730,32,27 Apr 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+731,39,15 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+732,43,09 Sep 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+733,52,06 May 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+734,31,18 Nov 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+735,47,17 Apr 1977,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+736,28,20 May 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+737,31,18 May 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+738,46,29 Mar 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+739,41,07 Aug 1983,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+740,43,02 Mar 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+741,48,27 Aug 1976,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+742,35,06 Jul 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+743,35,28 Feb 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+744,45,31 Aug 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+745,43,18 Nov 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+746,31,18 Mar 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+747,38,10 Apr 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+748,31,20 Dec 1993,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+749,47,04 Jul 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+750,27,30 Oct 1997,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+751,40,07 Mar 1984,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+752,58,31 Dec 1966,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+753,53,11 Jul 1971,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+754,54,04 Jul 1970,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+755,35,14 Mar 1989,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+756,81,17 Aug 1943,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+757,13,02 Jul 2011,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+758,62,08 Jul 1962,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+759,56,02 Jun 1968,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+760,0,09 Jul 2024,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+761,57,13 Sep 1967,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+762,60,23 Apr 1964,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+763,26,22 Jun 1998,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+764,35,21 Dec 1989,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+765,55,21 Apr 1969,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+766,47,20 Apr 1977,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+767,76,28 Dec 1948,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+768,19,15 Dec 2005,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+769,35,05 Mar 1989,Perempuan,Populasi Umum,Tes HIV,ODHIV
+770,54,24 Oct 1970,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+771,25,29 Jun 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+772,20,14 Dec 2004,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+773,31,14 Aug 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+774,33,03 Dec 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+775,31,30 Sep 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+776,19,30 Oct 2005,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+777,24,09 Jun 2000,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+778,29,23 Dec 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+779,39,14 Nov 1985,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+780,35,23 Nov 1989,Perempuan,Populasi Umum,Tes IMS,ODHIV
+781,41,12 Aug 1983,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+782,40,03 Oct 1984,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+783,50,09 Aug 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+784,49,11 Apr 1975,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+785,46,24 Mar 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+786,46,11 Dec 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+787,30,24 Feb 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+788,28,22 Feb 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+789,53,28 May 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+790,62,13 Jul 1962,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+791,41,12 Jun 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+792,41,20 Apr 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+793,54,29 Dec 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+794,29,17 Jun 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+795,39,14 Nov 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+796,58,23 Jan 1966,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+797,54,06 Apr 1970,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+798,47,28 Oct 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+799,46,27 Jun 1978,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+800,57,17 May 1967,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+801,41,18 May 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+802,50,20 Jan 1974,Perempuan,"Populasi Umum, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+803,32,14 Jul 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+804,59,09 Jan 1965,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+805,24,13 Mar 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+806,33,17 Aug 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+807,38,14 Dec 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+808,39,13 Feb 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+809,24,30 Jun 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+810,44,03 Sep 1980,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+811,33,27 Sep 1991,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+812,43,16 Jan 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+813,42,08 Jul 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+814,39,06 Oct 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+815,43,05 Sep 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+816,31,20 Jun 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+817,46,29 Aug 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+818,36,02 Jun 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+819,22,06 May 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+820,28,08 Jun 1996,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+821,72,13 Mar 1952,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+822,72,15 Jun 1952,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+823,66,21 Sep 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+824,43,06 Feb 1981,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+825,20,14 Nov 2004,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+826,74,01 Jul 1950,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+827,69,27 May 1955,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+828,35,12 Sep 1989,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+829,36,05 Jun 1988,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+830,57,16 Apr 1967,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+831,44,19 Sep 1980,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+832,66,14 Aug 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+833,53,06 Oct 1971,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+834,51,30 Aug 1973,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+835,27,26 Feb 1997,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+836,40,02 Jun 1984,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+837,22,07 Oct 2002,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+838,26,27 Jun 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+839,13,04 Feb 2011,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+840,21,14 Apr 2003,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+841,27,27 Aug 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+842,0,12 Sep 2024,Perempuan,Populasi Umum,Tes IMS,Belum Tahu
+843,46,30 Nov 1978,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+844,31,09 Jun 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+845,37,10 Jun 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+846,28,21 Aug 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+847,29,24 Dec 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+848,28,25 Aug 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+849,43,26 Feb 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+850,27,23 Jul 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+851,30,19 Oct 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+852,31,04 Aug 1993,Perempuan,"WPS, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+853,31,09 Oct 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+854,31,10 Jun 1993,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+855,29,12 Jan 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+856,31,13 Aug 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+857,53,10 Dec 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+858,39,31 May 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+859,40,02 May 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+860,42,11 Jun 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+861,40,29 Jan 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+862,34,11 Jan 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+863,35,17 Apr 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+864,30,11 Jan 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+865,30,15 Aug 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+866,37,07 Jul 1987,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+867,44,05 Jun 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+868,44,08 Feb 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+869,27,07 May 1997,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+870,24,03 Jul 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+871,28,20 Nov 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+872,44,16 Apr 1980,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+873,31,29 Apr 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+874,40,10 Jun 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+875,18,23 May 2006,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+876,24,30 Sep 2000,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+877,43,18 Feb 1981,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+878,39,22 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+879,37,30 Oct 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+880,42,12 Sep 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+881,46,30 Nov 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+882,55,01 Aug 1969,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+883,37,10 Dec 1987,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+884,63,04 Jan 1961,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+885,31,17 Jan 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+886,45,03 Jul 1979,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+887,45,23 Jun 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+888,44,14 Mar 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+889,38,24 Jun 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+890,51,16 Mar 1973,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+891,32,19 Sep 1992,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+892,39,28 Sep 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+893,44,20 Sep 1980,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+894,34,16 Mar 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+895,34,03 Dec 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+896,47,22 Jan 1977,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+897,66,10 Oct 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+898,28,21 Mar 1996,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+899,20,10 Mar 2004,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+900,57,14 Apr 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+901,30,10 Jun 1994,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+902,53,25 Mar 1971,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+903,79,02 May 1945,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+904,46,02 Apr 1978,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+905,64,06 Apr 1960,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+906,40,27 Jul 1984,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+907,0,08 Sep 2024,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+908,67,07 May 1957,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+909,37,21 Apr 1987,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+910,64,22 Dec 1960,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+911,42,26 Sep 1982,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+912,48,27 Nov 1976,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+913,61,03 Dec 1963,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+914,66,30 Dec 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+915,63,16 Nov 1961,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+916,54,21 Jun 1970,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+917,31,20 Aug 1993,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+918,23,03 Mar 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+919,29,27 Feb 1995,Perempuan,Calon Pengantin,"Tes HIV, Tes IMS",Bukan ODHIV
+920,49,06 Apr 1975,Laki-laki,LSL,"Tes HIV, Mulai PDP HIV",ODHIV
+921,42,11 Jul 1982,Laki-laki,LSL,Transit ARV,ODHIV
+922,24,05 Sep 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+923,47,10 Oct 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+924,37,27 Dec 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+925,41,28 Aug 1983,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+926,44,05 May 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+927,44,06 Oct 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+928,44,23 Feb 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+929,28,27 Nov 1996,Laki-laki,Calon Pengantin,Kunjungan Rutin PDP,ODHIV
+930,38,25 Feb 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+931,31,04 Jun 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+932,42,06 Dec 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+933,45,19 Dec 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+934,38,04 Apr 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+935,44,16 May 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+936,40,03 Aug 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+937,30,17 Mar 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+938,38,06 Dec 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+939,39,09 Dec 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+940,29,28 Jun 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+941,27,18 Jul 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+942,32,21 Nov 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+943,34,20 Jan 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+944,32,06 May 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+945,51,14 May 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+946,63,23 Mar 1961,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+947,37,19 Nov 1987,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+948,30,27 Dec 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+949,40,07 Nov 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+950,53,06 Oct 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+951,29,28 Dec 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+952,49,05 Aug 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+953,39,18 Jul 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+954,28,07 Jul 1996,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+955,38,04 Aug 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+956,23,04 Aug 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+957,26,28 May 1998,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+958,41,15 Mar 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+959,47,17 Dec 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+960,30,09 Sep 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+961,29,04 Dec 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+962,49,21 Nov 1975,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+963,60,01 Jul 1964,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+964,70,15 Jun 1954,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+965,43,30 Jul 1981,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+966,47,11 Sep 1977,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+967,25,16 May 1999,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+968,62,14 Aug 1962,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+969,39,08 Nov 1985,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+970,52,20 Feb 1972,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+971,29,06 Apr 1995,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+972,35,24 Aug 1989,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+973,52,24 Jun 1972,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+974,40,07 Apr 1984,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+975,71,15 Mar 1953,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+976,24,08 Oct 2000,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+977,26,23 May 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+978,30,19 Sep 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+979,34,17 Mar 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+980,0,14 Sep 2024,Laki-laki,Populasi Umum,Tes IMS,Belum Tahu
+981,53,25 Mar 1971,Laki-laki,Penyakit TB,Mulai PDP HIV,ODHIV
+982,59,29 Dec 1965,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+983,36,06 Jul 1988,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+984,38,30 Mar 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+985,31,04 Jan 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+986,40,01 Apr 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+987,46,26 Sep 1978,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+988,33,19 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+989,42,15 Jul 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+990,44,06 Oct 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+991,34,23 Oct 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+992,32,18 May 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+993,50,19 Jul 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+994,54,05 Jan 1970,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+995,36,03 May 1988,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+996,54,08 Apr 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+997,62,28 Feb 1962,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+998,30,05 Feb 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+999,47,13 Mar 1977,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,000",36,17 Mar 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,001",30,18 Jun 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,002",37,17 Jan 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,003",45,22 Dec 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,004",35,25 Mar 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,005",28,15 Aug 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,006",38,20 Aug 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,007",30,15 Aug 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,008",23,28 May 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,009",38,28 Sep 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,010",32,24 Jan 1992,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,011",39,11 Jan 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,012",53,06 Dec 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,013",52,24 Apr 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,014",21,10 May 2003,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,015",32,28 Aug 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,016",38,20 Mar 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,017",37,28 Mar 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,018",35,30 Oct 1989,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,019",30,04 Aug 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,020",50,15 Feb 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,021",51,24 Oct 1973,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,022",29,27 Aug 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,023",43,29 Jul 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,024",44,28 Nov 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,025",23,29 Mar 2001,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,026",56,07 Feb 1968,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,027",65,08 Apr 1959,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,028",33,10 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,029",39,20 Mar 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,030",44,14 Jul 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,031",43,08 Jan 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,032",29,19 Sep 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,033",34,02 Apr 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,034",25,25 Oct 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,035",40,05 Oct 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,036",25,21 Apr 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,037",17,20 Apr 2007,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"1,038",29,06 Feb 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,039",54,24 Jan 1970,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,040",49,02 Jan 1975,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,041",41,03 Jul 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,042",47,06 Jun 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,043",45,11 Sep 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,044",33,07 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,045",33,23 Apr 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,046",40,20 Feb 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,047",27,10 Oct 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,048",52,03 Feb 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,049",35,16 Sep 1989,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,050",23,26 Dec 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,051",28,20 Jul 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,052",29,20 Mar 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,053",40,12 Sep 1984,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,054",29,12 Jan 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,055",36,31 Jul 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,056",55,08 Nov 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,057",58,14 Jul 1966,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,058",23,25 Mar 2001,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,059",37,16 Mar 1987,Perempuan,Populasi Umum,Tes HIV,ODHIV
+"1,060",64,12 Dec 1960,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,061",50,05 Jul 1974,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,062",27,28 Jul 1997,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,063",2,29 Aug 2022,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,064",55,02 Aug 1969,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,065",51,06 Jan 1973,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,066",30,22 Dec 1994,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,067",51,15 May 1973,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,068",21,19 Jul 2003,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,069",28,29 Jul 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,070",26,05 Jun 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,071",37,15 Jul 1987,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,072",22,10 Mar 2002,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,073",17,09 Jan 2007,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,074",38,16 Dec 1986,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,075",64,05 Jun 1960,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,076",74,12 Oct 1950,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,077",0,13 Sep 2024,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,078",28,25 Aug 1996,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,079",28,08 Apr 1996,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,080",54,10 Mar 1970,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,081",17,10 Jul 2007,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,082",17,10 Jul 2007,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,083",31,03 Jun 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,084",22,10 Sep 2002,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,085",30,03 Nov 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,086",37,16 Mar 1987,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+"1,087",4,03 Jan 2020,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,088",6,25 May 2018,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,089",15,29 Jan 2009,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,090",7,24 Dec 2017,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,091",15,01 Feb 2009,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,092",15,11 Jun 2009,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,093",40,19 Apr 1984,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,094",41,05 Mar 1983,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,095",35,22 Apr 1989,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,096",9,07 Mar 2015,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,097",18,10 Jul 2006,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,098",41,20 Apr 1983,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,099",31,04 May 1993,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+"1,100",1,20 Oct 2023,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,101",32,14 Jun 1992,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,102",65,04 Jun 1959,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,103",36,29 Jan 1988,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,104",68,17 Aug 1956,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,105",74,15 Apr 1950,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,106",31,05 Oct 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,107",41,04 Nov 1983,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,108",37,15 Feb 1987,Perempuan,"Penyakit TB, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+"1,109",14,27 Sep 2010,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,110",23,19 Mar 2001,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,111",23,10 Feb 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,112",19,19 Jan 2005,Laki-laki,Penyakit TB,"Tes HIV, Mulai PDP HIV",ODHIV
+"1,113",27,24 Jun 1997,Laki-laki,LSL,Tes IMS,ODHIV
+"1,114",19,19 Jan 2005,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,115",55,20 Jun 1969,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,116",41,12 Aug 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,117",42,15 Jul 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,118",40,15 Aug 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,119",39,03 Jun 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,120",27,15 Mar 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,121",29,09 Sep 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,122",31,10 Jun 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,123",58,15 Jun 1966,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,124",41,12 Jun 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,125",52,08 Jan 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,126",35,24 Aug 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,127",47,01 Aug 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,128",29,18 Dec 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,129",44,26 Feb 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,130",39,15 Dec 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,131",40,07 Nov 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,132",51,10 Aug 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,133",31,14 Dec 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,134",30,10 Nov 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,135",38,10 Jan 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,136",44,14 Aug 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,137",45,06 Sep 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,138",48,21 Apr 1976,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,139",41,03 Jul 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,140",45,22 Mar 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,141",33,07 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,142",41,31 Aug 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,143",52,11 Oct 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,144",39,04 Nov 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,145",41,23 Nov 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,146",31,16 Nov 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,147",48,03 Feb 1976,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,148",51,25 Jun 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,149",25,19 Oct 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,150",51,25 May 1973,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,151",42,21 Feb 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,152",42,12 Nov 1982,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,153",42,07 Oct 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,154",27,05 Dec 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,155",43,08 Nov 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,156",34,23 Nov 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,157",24,25 Oct 2000,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,158",55,09 Aug 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,159",37,18 Aug 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,160",51,16 Jun 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,161",27,05 Jan 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,162",27,31 Mar 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,163",46,27 Sep 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,164",58,28 Dec 1966,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,165",37,13 May 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,166",29,13 Mar 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,167",27,24 Jun 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,168",34,22 Jan 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,169",38,05 Sep 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,170",33,02 Apr 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,171",39,23 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,172",44,10 Oct 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,173",55,30 Jul 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,174",46,13 Feb 1978,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,175",45,05 May 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,176",31,30 Oct 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,177",41,01 Jan 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,178",43,10 Feb 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,179",62,23 Jan 1962,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,180",44,12 Mar 1980,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,181",62,10 May 1962,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,182",31,07 Feb 1993,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,183",66,12 Apr 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,184",72,04 Jun 1952,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,185",16,26 Sep 2008,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,186",24,21 Dec 2000,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,187",17,21 Oct 2007,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,188",61,15 Mar 1963,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,189",0,05 Aug 2024,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,190",51,17 Apr 1973,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,191",33,11 Jun 1991,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,192",21,11 Feb 2003,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,193",33,17 May 1991,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,194",52,07 Jan 1972,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,195",39,24 Mar 1985,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,196",68,25 Dec 1956,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,197",75,21 Dec 1949,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,198",50,05 Jun 1974,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,199",38,16 Mar 1986,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,200",73,01 Aug 1951,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,201",38,07 Jan 1986,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,202",33,21 Apr 1991,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,203",18,26 Jun 2006,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,204",31,21 Jul 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,205",23,28 Jun 2001,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,206",35,05 Mar 1989,Perempuan,Populasi Umum,Tes IMS,ODHIV
+"1,207",35,05 Mar 1989,Perempuan,Populasi Umum,Mulai PDP HIV,ODHIV
+"1,208",45,06 Jan 1979,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,209",44,08 Aug 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,210",39,01 Nov 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,211",27,28 Sep 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,212",43,10 Feb 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,213",30,04 Apr 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,214",32,12 Jul 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,215",49,13 May 1975,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,216",47,26 Jun 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,217",38,05 Jun 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,218",39,19 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,219",28,29 May 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,220",43,14 Nov 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,221",35,02 May 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,222",31,13 Sep 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,223",37,20 Feb 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,224",45,10 Aug 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,225",27,03 Apr 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,226",50,02 Nov 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,227",24,06 Oct 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,228",38,01 Dec 1986,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,229",23,28 Jun 2001,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,230",41,24 May 1983,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,231",30,08 Aug 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,232",25,09 Apr 1999,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,233",48,05 Dec 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,234",44,13 Nov 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,235",53,28 Sep 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,236",35,08 Oct 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,237",38,08 Feb 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,238",55,09 Dec 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,239",26,16 Jun 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,240",73,28 Feb 1951,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,241",48,16 Jun 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,242",27,05 Nov 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,243",33,26 Oct 1991,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,244",29,09 Jan 1995,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,245",47,12 May 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,246",48,23 Aug 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,247",37,23 May 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,248",43,02 Feb 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,249",36,08 Sep 1988,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,250",37,19 Apr 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,251",35,26 Apr 1989,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,252",58,03 Jun 1966,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,253",46,17 Apr 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,254",45,27 Dec 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,255",38,12 Sep 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,256",21,14 Feb 2003,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,257",30,09 Jun 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,258",41,01 Apr 1983,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,259",42,27 Aug 1982,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,260",32,25 Aug 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,261",57,25 Dec 1967,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,262",52,01 Apr 1972,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,263",46,23 Sep 1978,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,264",44,01 Jul 1980,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,265",22,14 Aug 2002,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,266",42,18 Feb 1982,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,267",45,03 Jul 1979,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,268",31,26 Jul 1993,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,269",61,20 Mar 1963,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,270",45,16 Apr 1979,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,271",56,10 Jul 1968,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,272",36,21 Jul 1988,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,273",27,05 Feb 1997,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,274",40,16 May 1984,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,275",0,11 Jan 2024,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,276",79,08 Nov 1945,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,277",56,26 Oct 1968,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,278",71,23 Dec 1953,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,279",43,07 Oct 1981,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,280",69,01 Apr 1955,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,281",50,03 Mar 1974,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,282",48,10 Jan 1976,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,283",63,31 Aug 1961,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,284",27,22 Jan 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,285",30,19 Jul 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,286",25,02 Nov 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,287",16,06 May 2008,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,288",0,13 May 2024,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,289",55,20 Jun 1969,Laki-laki,Penyakit TB,Transit ARV,ODHIV
+"1,290",31,01 Jan 1993,Perempuan,Ibu Hamil,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,291",44,30 Aug 1980,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,292",30,27 Sep 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,293",51,08 Nov 1973,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,294",32,25 Nov 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,295",30,21 Jan 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,296",47,14 May 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,297",28,11 Aug 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,298",45,02 Aug 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,299",40,22 Jun 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,300",30,21 Nov 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,301",30,23 Oct 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,302",27,19 Oct 1997,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,303",53,01 Jul 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,304",44,26 Nov 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,305",31,08 Jan 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,306",31,06 Sep 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,307",35,07 Mar 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,308",44,30 Aug 1980,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,309",31,25 Dec 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,310",36,15 Dec 1988,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,311",61,10 Nov 1963,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,312",36,12 Dec 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,313",35,01 Dec 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,314",37,30 Apr 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,315",34,08 Mar 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,316",48,14 Apr 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,317",31,29 Nov 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,318",45,15 Mar 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,319",46,12 Jun 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,320",15,22 Sep 2009,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,321",18,18 Dec 2006,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,322",6,15 Jan 2018,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,323",10,19 Dec 2014,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,324",12,09 Sep 2012,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,325",17,07 Mar 2007,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,326",15,16 Sep 2009,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,327",6,22 Apr 2018,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,328",16,28 Oct 2008,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,329",12,31 Dec 2012,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,330",33,01 Dec 1991,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,331",23,05 Jun 2001,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,332",57,13 May 1967,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,333",60,01 Mar 1964,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,334",17,13 Aug 2007,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,335",10,01 Sep 2014,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,336",39,20 Aug 1985,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,337",47,10 Jul 1977,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,338",1,06 Jan 2023,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,339",59,15 Dec 1965,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,340",88,01 Jul 1936,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,341",31,25 Aug 1993,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,342",68,27 Dec 1956,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,343",35,20 Mar 1989,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,344",14,16 Jul 2010,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,345",37,22 May 1987,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,346",50,28 Dec 1974,Laki-laki,Populasi Umum,"Tes HIV, Mulai PDP HIV",ODHIV
+"1,347",53,25 Mar 1971,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,348",50,28 Dec 1974,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,349",33,28 Jun 1991,Laki-laki,LSL,Tes IMS,ODHIV
+"1,350",33,28 Jun 1991,Laki-laki,LSL,Mulai PDP HIV,ODHIV
+"1,351",25,18 Mar 1999,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,352",39,15 Jul 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,353",45,01 May 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,354",36,04 Jul 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,355",40,23 Nov 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,356",41,24 Dec 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,357",38,09 Jun 1986,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,358",48,20 Aug 1976,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,359",37,25 Jan 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,360",27,18 Nov 1997,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,361",43,17 Mar 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,362",46,02 Dec 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,363",36,04 Mar 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,364",56,15 Aug 1968,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,365",27,19 Aug 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,366",48,22 Jul 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,367",39,18 Feb 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,368",31,04 Jun 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,369",31,16 Dec 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,370",53,04 Jun 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,371",42,31 Jul 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,372",48,31 Dec 1976,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,373",38,02 Sep 1986,Laki-laki,"Penyakit TB, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,374",46,22 Jun 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,375",51,01 Aug 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,376",21,20 Aug 2003,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,377",21,06 Jan 2003,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,378",56,12 Jun 1968,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,379",25,19 Nov 1999,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,380",48,25 Jul 1976,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,381",26,31 Jul 1998,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,382",27,12 Nov 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,383",42,09 Jun 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,384",29,09 Aug 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,385",29,20 Jan 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,386",31,16 Aug 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,387",46,25 Dec 1978,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,388",40,05 May 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,389",27,17 May 1997,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,390",45,29 Mar 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,391",34,10 Dec 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,392",53,25 Mar 1971,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,393",35,15 Jul 1989,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,394",50,12 Apr 1974,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,395",64,30 Oct 1960,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,396",55,07 Oct 1969,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,397",61,18 Jul 1963,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,398",20,16 Jun 2004,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,399",51,22 Jan 1973,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,400",64,17 Dec 1960,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,401",66,01 Dec 1958,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,402",57,13 Aug 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,403",74,15 Aug 1950,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,404",28,16 Apr 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,405",23,28 Apr 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,406",28,23 Nov 1996,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,407",46,18 Aug 1978,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,408",35,15 Sep 1989,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,409",24,12 Jun 2000,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,410",46,16 Jul 1978,Laki-laki,LSL,Transit ARV,ODHIV
+"1,411",26,22 Jul 1998,Laki-laki,Penyakit TB,Tes IMS,ODHIV
+"1,412",33,11 Jun 1991,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"1,413",33,14 Oct 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,414",47,10 Mar 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,415",46,02 Oct 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,416",46,12 May 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,417",41,20 May 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,418",41,24 Apr 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,419",51,01 Jul 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,420",46,31 May 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,421",43,12 Nov 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,422",32,01 Mar 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,423",33,26 Jun 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,424",19,13 Nov 2005,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,425",39,20 Jul 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,426",41,15 Aug 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,427",50,06 Nov 1974,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,428",37,17 Dec 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,429",39,02 Nov 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,430",43,01 Jul 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,431",42,17 Jul 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,432",29,16 Jun 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,433",62,23 Aug 1962,Perempuan,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,434",40,27 Dec 1984,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,435",37,05 Sep 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,436",59,15 Mar 1965,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,437",27,28 Sep 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,438",53,14 Aug 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,439",33,11 Jun 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,440",56,19 Oct 1968,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,441",37,05 Sep 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,442",47,18 May 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,443",57,30 May 1967,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,444",50,03 Mar 1974,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,445",24,11 Dec 2000,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,446",29,19 Oct 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,447",51,06 Sep 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,448",44,05 Oct 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,449",34,03 Mar 1990,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,450",20,29 Mar 2004,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,451",36,27 Feb 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,452",32,12 Sep 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,453",27,09 Sep 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,454",25,17 Oct 1999,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,455",37,26 Dec 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,456",41,24 Jan 1983,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,457",46,03 Nov 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,458",31,11 Sep 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,459",30,28 Apr 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,460",33,21 Jan 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,461",26,22 Jul 1998,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,462",33,06 Nov 1991,Laki-laki,Pasangan Risti,Kunjungan Rutin PDP,ODHIV
+"1,463",31,05 Jan 1993,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,464",45,28 Sep 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,465",24,20 Jan 2000,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,466",42,31 Jan 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,467",42,13 Dec 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,468",42,10 Jun 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,469",38,03 Apr 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,470",30,07 Nov 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,471",41,19 Jul 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,472",36,09 Nov 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,473",25,17 Jan 1999,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,474",44,07 Nov 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,475",31,30 Jul 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,476",27,27 Apr 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,477",36,09 Feb 1988,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,478",39,08 Jan 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,479",30,26 Sep 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,480",27,31 Jul 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,481",29,30 Dec 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,482",36,12 Apr 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,483",41,17 Apr 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,484",38,28 Feb 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,485",24,15 Jul 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,486",34,24 Apr 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,487",44,25 Jul 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,488",40,01 Aug 1984,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,489",27,17 Jun 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,490",44,03 May 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,491",48,21 Sep 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,492",26,01 May 1998,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,493",44,14 Aug 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,494",23,16 Jun 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,495",38,20 Dec 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,496",20,18 Aug 2004,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,497",25,22 Mar 1999,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,498",67,23 Apr 1957,Laki-laki,Penyakit TB,Tes HIV,ODHIV
+"1,499",68,29 Oct 1956,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,500",62,20 Jun 1962,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,501",65,15 Jun 1959,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,502",49,23 Jul 1975,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,503",30,02 Oct 1994,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,504",59,07 Apr 1965,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,505",27,04 May 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,506",48,06 Apr 1976,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,507",39,13 Jun 1985,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,508",26,07 Nov 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,509",31,25 Aug 1993,Perempuan,Ibu Hamil,Tes IMS,Bukan ODHIV
+"1,510",71,26 Mar 1953,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,511",59,06 Jun 1965,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,512",56,22 Jul 1968,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,513",59,30 Oct 1965,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,514",60,08 Feb 1964,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,515",32,13 May 1992,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,516",73,01 Feb 1951,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,517",36,01 May 1988,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,518",39,07 Dec 1985,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,519",65,23 Apr 1959,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,520",56,05 May 1968,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,521",37,08 Jan 1987,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,522",16,09 Oct 2008,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,523",45,14 Jun 1979,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,524",65,10 Feb 1959,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,525",75,16 Jan 1949,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,526",41,23 Nov 1983,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,527",34,06 Oct 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,528",36,24 Aug 1988,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,529",38,02 Apr 1986,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,530",24,11 Nov 2000,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,531",58,02 Sep 1966,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,532",15,19 Dec 2009,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,533",20,25 Apr 2004,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,534",24,12 Apr 2000,Perempuan,"Calon Pengantin, Ibu Hamil","Tes HIV, Tes IMS",Bukan ODHIV
+"1,535",44,23 Oct 1980,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,536",70,16 Dec 1954,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,537",0,29 Jul 2024,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,538",0,27 Feb 2024,Perempuan,,Profilaksis ARV,Belum Tahu
+"1,539",0,15 Aug 2024,Laki-laki,,Profilaksis ARV,Belum Tahu
+"1,540",21,10 Apr 2003,Laki-laki,Penyakit IMS,Tes IMS,Belum Tahu
+"1,541",36,04 May 1988,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,542",30,12 Apr 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,543",32,13 Oct 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,544",39,20 Apr 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,545",42,12 May 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,546",45,02 Oct 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,547",25,16 Apr 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,548",48,05 Aug 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,549",47,17 Dec 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,550",21,09 Mar 2003,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,551",31,21 Oct 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,552",13,13 Jul 2011,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,553",31,03 Mar 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,554",72,13 Mar 1952,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,555",6,13 Jul 2018,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,556",31,20 Jun 1993,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,557",10,23 Sep 2014,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,558",10,09 Dec 2014,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,559",47,22 Apr 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,560",37,03 Sep 1987,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,561",10,01 Dec 2014,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,562",37,19 Jun 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,563",54,10 Jun 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,564",47,19 Jan 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,565",43,05 Oct 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,566",30,09 Oct 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,567",36,06 Jun 1988,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"1,568",45,15 Jun 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,569",43,16 Apr 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,570",25,05 Feb 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,571",45,12 May 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,572",32,01 Jan 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,573",45,04 Aug 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,574",37,19 Sep 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,575",34,02 May 1990,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,576",6,12 Feb 2018,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,577",17,09 Jan 2007,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,578",25,14 Apr 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,579",34,04 May 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,580",50,28 Jun 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,581",52,28 Aug 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,582",30,21 Dec 1994,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,583",35,01 May 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,584",23,10 Nov 2001,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,585",29,07 Oct 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,586",29,16 Jul 1995,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,587",38,09 Mar 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,588",44,23 May 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,589",35,16 Sep 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,590",4,08 Apr 2020,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,591",14,04 Jan 2010,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,592",38,22 Apr 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,593",21,06 Oct 2003,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,594",49,04 May 1975,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,595",17,07 Mar 2007,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,596",28,09 Nov 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,597",29,11 Mar 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,598",32,08 Sep 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,599",23,26 Jul 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,600",42,01 Sep 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,601",48,19 Nov 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,602",53,29 Jan 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,603",42,17 Dec 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,604",34,18 Apr 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,605",45,25 Apr 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,606",52,16 Aug 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,607",28,21 Jul 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,608",45,16 Nov 1979,Laki-laki,"Populasi Umum, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"1,609",29,20 Sep 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,610",23,17 Dec 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,611",39,05 Jan 1985,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,612",32,14 Sep 1992,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,613",44,10 Jun 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,614",39,09 May 1985,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,615",36,06 Sep 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,616",32,10 Sep 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,617",50,30 Mar 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,618",32,16 Jun 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,619",33,11 Nov 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,620",7,24 Oct 2017,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,621",17,23 Nov 2007,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,622",6,30 Nov 2018,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,623",2,23 Jun 2022,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,624",3,16 Dec 2021,Laki-laki,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,625",15,31 Oct 2009,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,626",45,13 Jan 1979,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,627",2,22 Sep 2022,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,628",2,04 Sep 2022,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,629",45,22 Nov 1979,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,630",37,08 Jun 1987,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,631",39,05 Jul 1985,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,632",30,11 Jun 1994,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,633",71,01 Nov 1953,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,634",45,25 Apr 1979,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,635",4,04 Dec 2020,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,636",49,13 Jun 1975,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,637",43,13 Apr 1981,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,638",48,01 May 1976,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,639",50,30 Dec 1974,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,640",31,22 Mar 1993,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,641",46,03 Oct 1978,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,642",43,04 Jul 1981,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,643",54,26 Jun 1970,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,644",6,11 Oct 2018,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,645",54,17 Jun 1970,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,646",31,12 Dec 1993,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,647",32,18 Jun 1992,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,648",41,23 Aug 1983,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,649",33,17 Aug 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,650",42,05 Nov 1982,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,651",29,04 Jul 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,652",38,25 May 1986,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,653",21,18 Oct 2003,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,654",46,23 May 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,655",43,23 Jul 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,656",54,02 Apr 1970,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,657",53,14 Dec 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,658",55,10 Sep 1969,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,659",56,01 Feb 1968,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,660",40,11 Sep 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,661",26,13 Feb 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,662",35,12 Jan 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,663",38,15 Dec 1986,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,664",41,17 Jul 1983,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,665",44,28 Jun 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,666",33,27 Dec 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,667",52,17 Sep 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,668",43,07 Dec 1981,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,669",52,16 Jun 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,670",31,05 Jan 1993,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,671",33,06 Oct 1991,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,672",28,14 May 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,673",36,01 Aug 1988,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,674",33,18 Apr 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,675",59,17 May 1965,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,676",38,01 May 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,677",27,22 Jun 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,678",47,15 Jan 1977,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,679",26,05 Jan 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,680",52,12 Nov 1972,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,681",47,29 Nov 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,682",51,11 Nov 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,683",30,29 May 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,684",42,21 Apr 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,685",40,26 Mar 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,686",34,22 May 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,687",27,29 May 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,688",49,16 Jul 1975,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,689",38,25 Mar 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,690",46,07 Jun 1978,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,691",44,13 May 1980,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,692",54,20 May 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,693",40,22 Feb 1984,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,694",47,31 Jan 1977,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,695",22,06 May 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,696",38,16 Nov 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,697",35,11 May 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,698",31,27 Jul 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,699",32,18 Nov 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,700",34,01 Jan 1990,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,701",33,31 Jan 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,702",61,23 Jun 1963,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,703",40,02 Dec 1984,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,704",2,20 Jun 2022,Perempuan,Anak Ibu ODHIV,Tes HIV,Bukan ODHIV
+"1,705",32,19 Jul 1992,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,706",43,19 Aug 1981,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,707",18,20 Oct 2006,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,708",54,20 Oct 1970,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,709",64,01 Jan 1960,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,710",47,10 Jan 1977,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,711",49,27 Jun 1975,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,712",44,06 Nov 1980,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,713",68,27 May 1956,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,714",57,16 Aug 1967,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,715",30,08 Oct 1994,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,716",42,04 Nov 1982,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,717",35,09 Dec 1989,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,718",23,09 Aug 2001,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,719",14,27 Dec 2010,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,720",0,25 Sep 2024,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,721",40,02 Mar 1984,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,722",53,25 Mar 1971,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,723",31,06 Apr 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,724",48,16 Oct 1976,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,725",46,08 Feb 1978,Laki-laki,LSL,Tes IMS,ODHIV
+"1,726",31,07 Feb 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,727",52,06 Oct 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,728",34,21 Jun 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,729",57,15 Jan 1967,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,730",36,22 Apr 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,731",22,08 Nov 2002,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,732",50,27 Nov 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,733",28,26 Feb 1996,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,734",30,18 Jun 1994,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,735",27,02 Jul 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,736",33,11 Dec 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,737",47,17 Mar 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,738",39,19 Nov 1985,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"1,739",44,28 Feb 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,740",34,24 May 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,741",36,22 Jun 1988,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,742",25,15 Mar 1999,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,743",43,08 Feb 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,744",51,08 Jul 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,745",35,12 Apr 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,746",29,27 Oct 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,747",26,31 May 1998,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,748",32,20 Jan 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,749",72,04 Apr 1952,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,750",43,24 Apr 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,751",24,29 Aug 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,752",45,03 Nov 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,753",41,15 Jul 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,754",39,26 Sep 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,755",27,09 Jun 1997,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,756",46,13 Jan 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,757",38,08 Jun 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,758",42,25 Sep 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,759",43,27 Jul 1981,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,760",42,10 Nov 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,761",37,17 May 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,762",47,18 Aug 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,763",47,07 Sep 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,764",49,24 Nov 1975,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,765",47,19 May 1977,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,766",41,03 Oct 1983,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,767",33,16 Mar 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,768",41,24 Jan 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,769",45,23 Jun 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,770",40,27 Apr 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,771",32,12 Jan 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,772",46,02 Mar 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,773",37,12 Aug 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,774",43,28 Jul 1981,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,775",46,02 Sep 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,776",28,01 Jun 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,777",22,23 Mar 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,778",34,17 Sep 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,779",34,04 May 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,780",51,10 Nov 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,781",31,17 Apr 1993,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,782",34,22 Nov 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,783",29,31 Jan 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,784",44,11 Jun 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,785",44,25 Nov 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,786",50,28 Dec 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,787",32,18 Dec 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,788",27,01 Nov 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,789",40,01 Jul 1984,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,790",23,21 Apr 2001,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,791",23,23 Feb 2001,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,792",18,09 Jul 2006,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,793",37,28 Aug 1987,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,794",70,03 Nov 1954,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,795",25,07 Jan 1999,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,796",57,05 May 1967,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,797",23,15 Sep 2001,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,798",49,24 Jul 1975,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,799",19,19 Dec 2005,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,800",51,16 Sep 1973,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,801",54,20 May 1970,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,802",30,26 Nov 1994,Laki-laki,Populasi Umum,Tes HIV,ODHIV
+"1,803",46,14 Jul 1978,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,804",66,17 Aug 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,805",42,03 Nov 1982,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,806",19,12 Feb 2005,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,807",19,29 Mar 2005,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,808",26,28 Oct 1998,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,809",30,03 Nov 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,810",51,12 Jan 1973,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,811",36,21 Oct 1988,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,812",39,26 Apr 1985,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,813",27,06 Jun 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,814",14,27 Dec 2010,Perempuan,Populasi Umum,Profilaksis ARV,Bukan ODHIV
+"1,815",39,06 Nov 1985,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,816",38,27 Dec 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,817",34,04 Aug 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,818",37,24 Nov 1987,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,819",34,21 Feb 1990,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,820",45,24 Aug 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,821",35,05 Jun 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,822",42,25 Apr 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,823",30,16 Mar 1994,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,824",38,19 Jun 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,825",33,22 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,826",66,03 Dec 1958,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,827",45,31 May 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,828",47,06 Sep 1977,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,829",43,30 Jul 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,830",23,02 Jul 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,831",53,05 Mar 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,832",33,26 Jun 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,833",30,31 Jan 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,834",55,06 Jul 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,835",44,30 Dec 1980,Perempuan,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,836",29,18 Oct 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,837",44,26 Apr 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,838",49,12 Sep 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,839",33,09 Jan 1991,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,840",45,21 Nov 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,841",41,04 Jul 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,842",44,03 Apr 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,843",36,10 Apr 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,844",31,07 Aug 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,845",34,25 Sep 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,846",72,04 May 1952,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,847",52,21 May 1972,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,848",36,18 Dec 1988,Laki-laki,Pelanggan PS,Kunjungan Rutin PDP,ODHIV
+"1,849",32,07 May 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,850",30,04 Feb 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,851",41,18 Sep 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,852",41,24 May 1983,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,853",46,27 Nov 1978,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,854",46,19 Feb 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,855",42,03 Jul 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,856",39,05 Sep 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,857",40,23 Nov 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,858",34,14 Mar 1990,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,859",40,20 Nov 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,860",47,30 Nov 1977,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,861",53,01 Nov 1971,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,862",37,05 Apr 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,863",33,27 Sep 1991,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,864",46,27 Feb 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,865",23,27 Dec 2001,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,866",47,04 Mar 1977,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,867",32,27 Dec 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,868",9,22 Jul 2015,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,869",14,31 Mar 2010,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,870",8,11 Jul 2016,Perempuan,Anak ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,871",28,12 Jun 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,872",41,08 Jan 1983,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,873",8,13 Jan 2016,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,874",18,19 Sep 2006,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,875",50,06 Mar 1974,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,876",43,06 May 1981,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,877",38,07 Sep 1986,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,878",39,12 Apr 1985,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,879",46,17 Jun 1978,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,880",39,18 Feb 1985,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,881",36,16 Jan 1988,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,882",53,04 Aug 1971,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,883",8,27 Dec 2016,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,884",29,21 Mar 1995,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,885",35,26 Feb 1989,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,886",60,07 Dec 1964,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,887",67,20 Nov 1957,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,888",32,07 Oct 1992,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,889",36,11 Jun 1988,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,890",27,01 Oct 1997,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,891",1,29 Jan 2023,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,892",29,04 Apr 1995,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,893",25,29 Mar 1999,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,894",31,13 Sep 1993,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,895",33,25 Dec 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,896",32,01 Apr 1992,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,897",38,05 Oct 1986,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,898",43,25 May 1981,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,899",30,16 Feb 1994,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,900",50,18 Jun 1974,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,901",44,25 Jul 1980,Laki-laki,Populasi Umum,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"1,902",57,16 Aug 1967,Laki-laki,LSL,Tes IMS,ODHIV
+"1,903",46,30 Mar 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,904",43,26 Feb 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,905",60,05 Dec 1964,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,906",55,15 Aug 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,907",39,20 Oct 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,908",35,09 May 1989,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,909",50,17 Nov 1974,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,910",50,17 Oct 1974,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,911",38,16 Jun 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,912",29,12 Oct 1995,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,913",44,10 Feb 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,914",37,09 Dec 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,915",46,14 Jul 1978,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,916",39,01 Jul 1985,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,917",29,12 May 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,918",57,21 Nov 1967,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,919",30,27 Nov 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,920",37,25 Oct 1987,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,921",36,20 Mar 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,922",39,13 Mar 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,923",35,19 Dec 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,924",31,04 Jul 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,925",28,07 Mar 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,926",36,26 Dec 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,927",36,22 Apr 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,928",49,17 May 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,929",42,15 Jun 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,930",27,12 Apr 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,931",61,12 Jun 1963,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,932",42,02 Aug 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,933",22,05 Feb 2002,Laki-laki,Penyakit IMS,Kunjungan Rutin PDP,ODHIV
+"1,934",38,02 Sep 1986,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,935",43,18 Dec 1981,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,936",36,05 May 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,937",30,29 Dec 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,938",28,20 Jun 1996,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,939",37,06 Jan 1987,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,940",30,18 Jul 1994,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,941",41,08 Dec 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,942",60,15 Jul 1964,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,943",40,21 Mar 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,944",50,24 Nov 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,945",41,07 Aug 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,946",34,05 Apr 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,947",42,21 May 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,948",28,26 Jan 1996,Perempuan,"Pasangan ODHIV, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,949",56,18 Oct 1968,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,950",41,29 Aug 1983,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,951",44,28 Aug 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,952",38,15 Mar 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,953",37,12 Aug 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,954",43,25 Jul 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,955",43,24 Nov 1981,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,956",35,29 Oct 1989,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,957",34,27 Sep 1990,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,958",58,03 Apr 1966,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,959",33,12 Aug 1991,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,960",44,01 Jan 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,961",38,13 Aug 1986,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"1,962",34,24 Aug 1990,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,963",46,08 Feb 1978,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,964",57,16 Aug 1967,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,965",14,03 Jun 2010,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,966",67,16 Sep 1957,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,967",55,15 Feb 1969,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,968",56,03 May 1968,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,969",47,21 Feb 1977,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,970",31,24 Dec 1993,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,971",52,15 Jun 1972,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,972",30,12 Jul 1994,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"1,973",38,22 Jan 1986,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,974",13,14 Jun 2011,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,975",21,20 Aug 2003,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,976",63,10 Feb 1961,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"1,977",24,28 Mar 2000,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"1,978",32,05 May 1992,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,979",25,03 May 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,980",29,20 Nov 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,981",25,22 May 1999,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,982",31,17 Dec 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,983",46,25 Feb 1978,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,984",33,04 Sep 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"1,985",11,20 Jul 2013,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,986",47,14 Aug 1977,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"1,987",44,29 Aug 1980,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"1,988",49,25 Dec 1975,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"1,989",32,27 Jul 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,990",49,19 Apr 1975,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,991",30,28 Feb 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,992",33,30 Apr 1991,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"1,993",22,25 Dec 2002,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"1,994",39,07 Apr 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,995",31,13 Mar 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,996",45,03 Jul 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,997",45,21 Mar 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,998",45,10 Oct 1979,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"1,999",50,19 Feb 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,000",24,01 Oct 2000,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,001",42,06 Feb 1982,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,002",31,14 Aug 1993,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,003",55,27 Dec 1969,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,004",35,30 Apr 1989,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,005",44,28 Jun 1980,Perempuan,WPS,Kunjungan Rutin PDP,ODHIV
+"2,006",47,11 Jun 1977,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,007",29,24 Mar 1995,Laki-laki,"Penyakit TB, Populasi Umum",Kunjungan Rutin PDP,ODHIV
+"2,008",41,12 Jul 1983,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,009",42,04 Jun 1982,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,010",37,06 Oct 1987,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,011",45,26 Mar 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,012",32,13 Aug 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,013",42,29 Nov 1982,Perempuan,"Populasi Umum, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"2,014",34,17 Dec 1990,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,015",30,16 May 1994,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,016",40,31 Oct 1984,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,017",30,07 Jul 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,018",46,06 Feb 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,019",41,04 Jun 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,020",46,12 Mar 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,021",48,18 Dec 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,022",40,04 May 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,023",33,17 Dec 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,024",48,01 Nov 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,025",29,12 Jan 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,026",29,23 Oct 1995,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,027",28,13 Jul 1996,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"2,028",41,26 Mar 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,029",41,23 May 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,030",27,27 Sep 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,031",48,10 Aug 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,032",43,26 Feb 1981,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,033",41,05 Mar 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,034",42,01 Jan 1982,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,035",25,23 Jul 1999,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,036",26,18 Feb 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,037",36,10 Dec 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,038",40,29 Jan 1984,Perempuan,"Penasun, Ibu Hamil",Kunjungan Rutin PDP,ODHIV
+"2,039",50,18 Dec 1974,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,040",40,03 May 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,041",31,23 Aug 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,042",13,11 Oct 2011,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,043",43,04 Dec 1981,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,044",21,13 Jan 2003,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,045",41,12 Feb 1983,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,046",29,19 Nov 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,047",38,08 Jan 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,048",33,09 Nov 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,049",47,23 Nov 1977,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,050",48,03 Jun 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,051",41,09 Jan 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,052",49,05 Nov 1975,Perempuan,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,053",46,12 Mar 1978,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,054",48,15 Jun 1976,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,055",26,03 Mar 1998,Laki-laki,"LSL, Penyakit TB",Kunjungan Rutin PDP,ODHIV
+"2,056",46,31 Dec 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,057",44,29 Dec 1980,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,058",21,19 Feb 2003,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,059",34,04 Mar 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,060",39,02 Jul 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,061",38,23 May 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,062",31,15 Apr 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,063",31,13 Jan 1993,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,064",23,03 Jan 2001,Laki-laki,"Penyakit TB, LSL",Kunjungan Rutin PDP,ODHIV
+"2,065",39,13 Mar 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,066",27,18 Jul 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,067",34,29 Jan 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,068",29,05 Aug 1995,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,069",22,31 Jul 2002,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,070",34,05 Apr 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,071",35,07 Aug 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,072",32,09 Mar 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,073",61,07 May 1963,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,074",39,17 May 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,075",32,03 Sep 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,076",35,01 Oct 1989,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,077",30,21 Aug 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,078",40,10 May 1984,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,079",21,06 Jul 2003,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,080",28,07 Aug 1996,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,081",51,13 Mar 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,082",36,01 Nov 1988,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,083",26,18 Jul 1998,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,084",38,27 Feb 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,085",50,02 Nov 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,086",32,24 Jun 1992,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,087",35,19 Nov 1989,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,088",29,15 Jun 1995,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,089",22,01 Aug 2002,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,090",82,29 Oct 1942,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,091",59,10 Mar 1965,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,092",47,18 May 1977,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,093",22,07 Aug 2002,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,094",29,12 Aug 1995,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,095",54,10 Dec 1970,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,096",66,10 Mar 1958,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,097",21,02 Sep 2003,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,098",60,12 Jun 1964,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,099",38,18 May 1986,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,100",35,01 May 1989,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,101",29,10 Mar 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,102",34,28 May 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,103",33,15 Aug 1991,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,104",59,10 Aug 1965,Perempuan,Penyakit TB,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,105",24,24 Aug 2000,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,106",39,11 Aug 1985,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,107",40,05 Sep 1984,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,108",32,11 Nov 1992,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,109",35,28 Mar 1989,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,110",25,14 Nov 1999,Perempuan,Populasi Umum,Tes HIV,ODHIV
+"2,111",80,13 Dec 1944,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,112",40,14 Sep 1984,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,113",32,03 Jul 1992,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,114",54,15 Apr 1970,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,115",34,20 Jan 1990,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,116",19,21 Nov 2005,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,117",64,15 Sep 1960,Laki-laki,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,118",50,10 Aug 1974,Perempuan,Penyakit TB,Tes HIV,Bukan ODHIV
+"2,119",65,22 Nov 1959,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,120",60,14 Mar 1964,Laki-laki,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,121",48,11 Jul 1976,Perempuan,Populasi Umum,Tes HIV,Bukan ODHIV
+"2,122",37,17 Jan 1987,Perempuan,Ibu Hamil,Tes HIV,Bukan ODHIV
+"2,123",45,29 Aug 1979,Perempuan,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,124",29,03 Apr 1995,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,125",27,22 May 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,126",40,02 Jul 1984,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,127",27,18 Apr 1997,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,128",40,25 Oct 1984,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,129",41,17 Jun 1983,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,130",12,17 Mar 2012,Laki-laki,Populasi Umum,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,131",34,05 Apr 1990,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,132",31,05 Oct 1993,Perempuan,Ibu Hamil,"Tes HIV, Tes IMS",Bukan ODHIV
+"2,133",27,16 Dec 1997,Laki-laki,Penyakit TB,Rujuk Keluar PDP HIV (tanpa ARV),ODHIV
+"2,134",22,02 Feb 2002,Perempuan,Penyakit IMS,Tes IMS,Belum Tahu
+"2,135",32,18 Jun 1992,Laki-laki,Populasi Umum,Tes IMS,ODHIV
+"2,136",32,18 Jun 1992,Laki-laki,Populasi Umum,Mulai PDP HIV,ODHIV
+"2,137",60,23 Apr 1964,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,138",36,23 Oct 1988,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,139",44,06 Jul 1980,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,140",29,16 Apr 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,141",33,12 Apr 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,142",39,23 Mar 1985,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,143",56,07 Jun 1968,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,144",44,29 Nov 1980,Laki-laki,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,145",45,01 Jan 1979,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,146",51,09 Mar 1973,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,147",37,22 Apr 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,148",40,13 May 1984,Perempuan,Penyakit TB,Kunjungan Rutin PDP,ODHIV
+"2,149",37,16 Oct 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,150",46,12 Aug 1978,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,151",44,19 Jul 1980,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,152",26,10 Dec 1998,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,153",39,25 Aug 1985,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,154",37,01 Apr 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,155",37,15 Aug 1987,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,156",39,22 Jul 1985,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,157",51,28 Feb 1973,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,158",36,18 Mar 1988,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,159",27,30 Dec 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,160",38,07 Nov 1986,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,161",35,25 Dec 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,162",28,06 Sep 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,163",37,11 Mar 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,164",27,14 Jan 1997,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,165",44,16 May 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,166",50,14 Oct 1974,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,167",42,25 Dec 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,168",41,02 Mar 1983,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,169",55,02 Oct 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,170",44,29 Jan 1980,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,171",42,03 Dec 1982,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,172",32,24 Mar 1992,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,173",32,05 Aug 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,174",43,07 Apr 1981,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,175",49,22 Aug 1975,Laki-laki,Pasangan ODHIV,Kunjungan Rutin PDP,ODHIV
+"2,176",55,15 Jun 1969,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,177",32,26 Feb 1992,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,178",8,06 Jul 2016,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,179",6,05 Apr 2018,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,180",54,15 Mar 1970,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,181",27,15 Apr 1997,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,182",32,19 Jun 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,183",67,14 Jan 1957,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,184",33,21 Jul 1991,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,185",37,08 Sep 1987,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,186",37,03 Feb 1987,Perempuan,Ibu Hamil,Kunjungan Rutin PDP,ODHIV
+"2,187",29,25 Nov 1995,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,188",32,20 Jul 1992,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,189",26,19 Jan 1998,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,190",38,16 Dec 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,191",45,12 Dec 1979,Laki-laki,Penasun,Kunjungan Rutin PDP,ODHIV
+"2,192",38,10 Feb 1986,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,193",42,27 Jul 1982,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,194",57,05 Jul 1967,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,195",53,21 Apr 1971,Perempuan,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,196",31,15 Dec 1993,Laki-laki,Waria,Kunjungan Rutin PDP,ODHIV
+"2,197",48,09 Mar 1976,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,198",49,28 Jul 1975,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,199",38,09 Feb 1986,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,200",30,24 Aug 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,201",34,21 Jan 1990,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,202",40,27 Nov 1984,Laki-laki,Populasi Umum,Kunjungan Rutin PDP,ODHIV
+"2,203",30,01 Jan 1994,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,204",35,01 Jan 1989,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
+"2,205",28,11 Aug 1996,Laki-laki,LSL,Kunjungan Rutin PDP,ODHIV
