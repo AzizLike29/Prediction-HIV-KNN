@@ -1,4 +1,4 @@
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 
 <ul>
   <li>
