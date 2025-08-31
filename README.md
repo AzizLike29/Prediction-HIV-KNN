@@ -1,6 +1,6 @@
 <h2>Kesimpulan</h2>
 
-<ul style="text-align: justify;">
+<ul>
   <li>
     The K-Nearest Neighbors (KNN) model proved effective in clustering HIV/AIDS
     patient data, with each label analyzed showing significant performance levels
